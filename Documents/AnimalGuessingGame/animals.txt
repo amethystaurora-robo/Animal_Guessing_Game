@@ -1,0 +1,365 @@
+Kingdom,type,subtype,species
+mammal,Australian or Marsupial,bandicoot
+mammal,Australian or Marsupial,cucus
+mammal,Australian or Marsupial,echidna
+mammal,Australian or Marsupial,flying squirrel
+mammal,Australian or Marsupial,kangaroo
+mammal,Australian or Marsupial,koala bear
+mammal,Australian or Marsupial,numbat
+mammal,Australian or Marsupial,pademelon
+mammal,Australian or Marsupial,platypus
+mammal,Australian or Marsupial,quokka
+mammal,Australian or Marsupial,quoll
+mammal,Australian or Marsupial,sugar glider
+mammal,Australian or Marsupial,swiftlet
+mammal,Australian or Marsupial,tasmanian devil
+mammal,Australian or Marsupial,wallaby
+mammal,Australian or Marsupial,wombat
+mammal,horned/antlered/tusked mammal,addax
+mammal,horned/antlered/tusked mammal,antelope
+mammal,horned/antlered/tusked mammal,buffalo
+mammal,horned/antlered/tusked mammal,caribou
+mammal,horned/antlered/tusked mammal,cow
+mammal,horned/antlered/tusked mammal,deer
+mammal,horned/antlered/tusked mammal,elephant
+mammal,horned/antlered/tusked mammal,elk
+mammal,horned/antlered/tusked mammal,gazelle
+mammal,horned/antlered/tusked mammal,giraffe
+mammal,horned/antlered/tusked mammal,goat
+mammal,horned/antlered/tusked mammal,guar
+mammal,horned/antlered/tusked mammal,ibex
+mammal,horned/antlered/tusked mammal,impala
+mammal,horned/antlered/tusked mammal,kudu
+mammal,horned/antlered/tusked mammal,markhor
+mammal,horned/antlered/tusked mammal,moose
+mammal,horned/antlered/tusked mammal,musk ox
+mammal,horned/antlered/tusked mammal,okapi
+mammal,horned/antlered/tusked mammal,oryx
+mammal,horned/antlered/tusked mammal,ox
+mammal,horned/antlered/tusked mammal,reindeer
+mammal,horned/antlered/tusked mammal,rhino
+mammal,horned/antlered/tusked mammal,saola
+mammal,horned/antlered/tusked mammal,sheep
+mammal,horned/antlered/tusked mammal,swiftlet
+mammal,horned/antlered/tusked mammal,walrus
+mammal,horned/antlered/tusked mammal,warthog
+mammal,horned/antlered/tusked mammal,water buffalo
+mammal,horned/antlered/tusked mammal,wild boar
+mammal,horned/antlered/tusked mammal,wildebeest
+mammal,horned/antlered/tusked mammal,yak
+mammal,horned/antlered/tusked mammal,zebu
+mammal,primate,ape,chimpanzee
+mammal,primate,ape,gibbon
+mammal,primate,ape,gorilla
+mammal,primate,ape,human
+mammal,primate,ape,orangutan
+mammal,primate,lemur
+mammal,primate,tarsier
+mammal,primate,monkey,baboon
+mammal,primate,monkey,capuchin
+mammal,primate,monkey,howler monkey
+mammal,primate,monkey,macaque
+mammal,primate,monkey,marmoset
+mammal,primate,monkey,mandril
+mammal,primate,monkey,spider monkey
+mammal,primate,monkey,squirrel monkey
+mammal,rodent,capybara
+mammal,rodent,beaver
+mammal,rodent,badger
+mammal,rodent,chinchilla
+mammal,rodent,chipmunk
+mammal,rodent,civet
+mammal,rodent,coati
+mammal,rodent,ferret
+mammal,rodent,fossa
+mammal,rodent,gerbil
+mammal,rodent,gopher
+mammal,rodent,hamster
+mammal,rodent,guinea pig
+mammal,rodent,hare
+mammal,rodent,hare
+mammal,rodent,lemming
+mammal,rodent,meerkat
+mammal,rodent,mink
+mammal,rodent,mouse
+mammal,rodent,mole
+mammal,rodent,opossum
+mammal,rodent,prairie dog
+mammal,rodent,rabbit
+mammal,rodent,racoon
+mammal,rodent,rat
+mammal,rodent,skunk
+mammal,rodent,squirrel
+mammal,rodent,vole
+mammal,rodent,weasel
+mammal,rodent,wolverine
+mammal,sea or water mammal,beaver
+mammal,sea or water mammal,dolphin
+mammal,sea or water mammal,dugong
+mammal,sea or water mammal,hippo
+mammal,sea or water mammal,manatee
+mammal,sea or water mammal,narwhal
+mammal,sea or water mammal,orca
+mammal,sea or water mammal,otter
+mammal,sea or water mammal,platypus
+mammal,sea or water mammal,porpoise
+mammal,sea or water mammal,river dolphin
+mammal,sea or water mammal,sea lion
+mammal,sea or water mammal,seal
+mammal,sea or water mammal,walrus
+mammal,sea or water mammal,whale
+mammal,spiky or armored mammal,armadillo
+mammal,spiky or armored mammal,echidna
+mammal,spiky or armored mammal,hedgehog
+mammal,spiky or armored mammal,pangolin
+mammal,spiky or armored mammal,porcupine
+mammal,other herbivorous mammal,aardvark
+mammal,other herbivorous mammal,alpaca
+mammal,other herbivorous mammal,anteater
+mammal,other herbivorous mammal,bat
+mammal,other herbivorous mammal,beaver
+mammal,other herbivorous mammal,camel
+mammal,other herbivorous mammal,civet
+mammal,other herbivorous mammal,coati
+mammal,other herbivorous mammal,donkey
+mammal,other herbivorous mammal,dromedary
+mammal,other herbivorous mammal,fossa
+mammal,other herbivorous mammal,goat
+mammal,other herbivorous mammal,hare
+mammal,other herbivorous mammal,hippo
+mammal,other herbivorous mammal,horse
+mammal,other herbivorous mammal,impala
+mammal,other herbivorous mammal,kudu
+mammal,other herbivorous mammal,llama
+mammal,other herbivorous mammal,mole
+mammal,other herbivorous mammal,mongoose
+mammal,other herbivorous mammal,mule
+mammal,other herbivorous mammal,okapi
+mammal,other herbivorous mammal,opossum
+mammal,other herbivorous mammal,pig
+mammal,other herbivorous mammal,rabbit
+mammal,other herbivorous mammal,racoon
+mammal,other herbivorous mammal,red panda
+mammal,other herbivorous mammal,sheep
+mammal,other herbivorous mammal,skunk
+mammal,other herbivorous mammal,sloth
+mammal,other herbivorous mammal,tapir
+mammal,other herbivorous mammal,weasel
+mammal,other herbivorous mammal,wolverine
+mammal,other herbivorous mammal,zebra
+mammal,other carnivore,bear type,black bear
+mammal,other carnivore,bear type,brown bear
+mammal,other carnivore,bear type,grizzly bear
+mammal,other carnivore,bear type,panda
+mammal,other carnivore,bear type,polar bear
+mammal,other carnivore,bear type,sloth bear
+mammal,other carnivore,bear type,spectacled bear
+mammal,other carnivore,bear type,sun bear
+mammal,other carnivore,dog type,coyote
+mammal,other carnivore,dog type,dingo
+mammal,other carnivore,dog type,fox
+mammal,other carnivore,dog type,hyena
+mammal,other carnivore,dog type,jackal
+mammal,other carnivore,dog type,pet dog
+mammal,other carnivore,dog type,wolf
+mammal,other carnivore,dog type,maned wolf
+mammal,other carnivore,cat type,bobcat
+mammal,other carnivore,cat type,cheetah
+mammal,other carnivore,cat type,house cat
+mammal,other carnivore,cat type,jaguar
+mammal,other carnivore,cat type,leopard
+mammal,other carnivore,cat type,liger
+mammal,other carnivore,cat type,lion
+mammal,other carnivore,cat type,lynx
+mammal,other carnivore,cat type,ocelot
+mammal,other carnivore,cat type,panther
+mammal,other carnivore,cat type,puma
+mammal,other carnivore,cat type,tiger
+mammal,other,aardvark
+mammal,other,anteater
+mammal,other,bat
+mammal,other,badger
+mammal,other,civet
+mammal,other,coati
+mammal,other,mink
+mammal,other,mongoose
+mammal,other,opossum
+mammal,other,racoon
+mammal,other,red panda
+mammal,other,skunk
+mammal,other,sloth
+mammal,other,weasel
+mammal,other,wolverine
+amphibian,axolotl
+amphibian,frog
+amphibian,olm
+amphibian,salamander
+amphibian,toad
+reptile,lizard,bearded dragon
+reptile,snake,viper
+reptile,other reptile,alligator
+reptile,other reptile,caimain
+reptile,other reptile,crocodile
+reptile,other reptile,dinosaur
+reptile,other reptile,tortoise
+reptile,other reptile,turtle
+reptile,lizard,chameleon
+reptile,snake,seasnake
+reptile,snake,rattlesnake
+reptile,snake,python
+reptile,snake,mamba
+reptile,snake,kingsnake
+reptile,snake,garter snake
+reptile,snake,galapagos snake
+reptile,snake,cottonmouth
+reptile,snake,copperhead snake
+reptile,snake,cobra
+reptile,snake,boa
+reptile,snake,black mamba
+reptile,snake,anaconda
+reptile,lizard,collared lizard
+reptile,lizard,frilled lizard
+reptile,lizard,gecko
+reptile,lizard,gila monster
+reptile,lizard,glass lizard
+reptile,lizard,horned lizard
+reptile,lizard,iguana
+reptile,lizard,komodo dragon
+reptile,lizard,lava lizard
+reptile,lizard,legless lizard
+reptile,lizard,marine iguana
+reptile,lizard,monitor
+reptile,lizard,newt
+reptile,lizard,sand lizard
+reptile,lizard,thorny devil
+reptile,lizard,tuatara
+reptile,lizard,water dragon
+bird,big bird,crane
+bird,big bird,emu
+bird,big bird,ostrich
+bird,big bird,flamingo
+bird,big bird,ibis
+bird,big bird,kakapo
+bird,big bird,kiwi
+bird,big bird,spoonbill
+bird,big bird,penguin
+bird,big bird,stork
+bird,big bird,umbrella bird
+bird,bird of prey,buzzard
+bird,bird of prey,condor
+bird,bird of prey,eagle
+bird,bird of prey,falcon
+bird,bird of prey,hawk
+bird,bird of prey,kite
+bird,bird of prey,osprey
+bird,bird of prey,owl
+bird,bird of prey,vulture
+bird,colorful bird,beeeater
+bird,colorful bird,bird of paradise
+bird,colorful bird,cockatoo
+bird,colorful bird,finch
+bird,colorful bird,kakapo
+bird,colorful bird,kingfisher
+bird,colorful bird,lorikeet
+bird,colorful bird,lovebird
+bird,colorful bird,macaw
+bird,colorful bird,oriole
+bird,colorful bird,parakeet
+bird,colorful bird,parrot
+bird,colorful bird,quetzal
+bird,colorful bird,robin
+bird,colorful bird,toucan
+bird,colorful bird,umbrella bird
+bird,game bird,crane
+bird,game bird,dove
+bird,game bird,duck
+bird,game bird,goose
+bird,game bird,grouse
+bird,game bird,partridge
+bird,game bird,pheasant
+bird,game bird,quail
+bird,game bird,snipe
+bird,game bird,turkey
+bird,sea or water bird,albatross
+bird,sea or water bird,booby
+bird,sea or water bird,cormorant
+bird,sea or water bird,grebe
+bird,sea or water bird,kingfisher
+bird,sea or water bird,moorhen
+bird,sea or water bird,penguin
+bird,sea or water bird,plover
+bird,sea or water bird,pelican
+bird,sea or water bird,puffin
+bird,sea or water bird,seagull
+bird,sea or water bird,swan
+bird,sea or water bird,tern
+bird,sea or water bird,spoonbill
+bird,songbird,blackbird
+bird,songbird,bluebird
+bird,songbird,bluejay
+bird,songbird,cardinal
+bird,songbird,crake
+bird,songbird,finch
+bird,songbird,magpie
+bird,songbird,mockingbird
+bird,songbird,nightingale
+bird,songbird,oriole
+bird,songbird,robin
+bird,songbird,wren
+bird,songbird,uguisu
+bird,other bird,beeeater
+bird,other bird,blackbird
+bird,other bird,bluejay
+bird,other bird,bluebird
+bird,other bird,cardinal
+bird,other bird,chicken
+bird,other bird,crow
+bird,other bird,cuckoo
+bird,other bird,hummingbird
+bird,other bird,raven
+fish,edible fish,anchovy
+fish,edible fish,barracuda
+fish,edible fish,bass
+fish,edible fish,catfish
+fish,edible fish,cod
+fish,edible fish,eel
+fish,edible fish,flounder
+fish,edible fish,grouper
+fish,edible fish,herring
+fish,edible fish,pike
+fish,edible fish,salmon
+fish,edible fish,sardine
+fish,edible fish,shark
+fish,edible fish,swordfish
+fish,edible fish,tilapia
+fish,edible fish,trout
+fish,edible fish,tuna
+fish,pet fish,angelfish
+fish,pet fish,barb
+fish,pet fish,betta
+fish,pet fish,catfish
+fish,pet fish,clownfish
+fish,pet fish,eel
+fish,pet fish,goldfish
+fish,pet fish,guppy
+fish,pet fish,koi
+fish,pet fish,minnow
+fish,pet fish,molly
+fish,pet fish,piranha
+fish,pet fish,pufferfish
+fish,pet fish,shark
+fish,pet fish,silver dollar
+fish,pet fish,tang(Dory)
+fish,pet fish,stingray
+fish,pet fish,tetra
+fish,pet fish,wrasse
+fish,other fish,barracuda
+fish,other fish,morayeel
+fish,other fish,eel
+fish,other fish,pike
+fish,other fish,piranha
+fish,other fish,pufferfish
+fish,other fish,shark
+fish,other fish,swordfish
+fish,other fish,stingray
+fish,other fish,wrasse

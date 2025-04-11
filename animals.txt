@@ -1,0 +1,522 @@
+diet,Kingdom,region,type,subtype,species
+omnivore,mammal,Oceania,Australian mammal or Marsupial,bandicoot
+insectivore,mammal,Oceania,Australian mammal or Marsupial,echidna
+omnivore,mammal,Americas,Australian mammal or Marsupial,flying squirrel
+omnivore,mammal,Eurasia,Australian mammal or Marsupial,flying squirrel
+herbivore,mammal,Oceania,Australian mammal or Marsupial,kangaroo
+herbivore,mammal,Oceania,Australian mammal or Marsupial,koala bear
+insectivore,mammal,Oceania,Australian mammal or Marsupial,numbat
+carnivore,mammal,Oceania,Australian mammal or Marsupial,platypus
+herbivore,mammal,Oceania,Australian mammal or Marsupial,quokka
+carnivore,mammal,Oceania,Australian mammal or Marsupial,quoll
+omnivore,mammal,Oceania,Australian mammal or Marsupial,sugar glider
+omnivore,mammal,Eurasia,Australian mammal or Marsupial,sugar glider
+carnivore,mammal,Oceania,Australian mammal or Marsupial,tasmanian devil
+herbivore,mammal,Oceania,Australian mammal or Marsupial,wallaby
+herbivore,mammal,Oceania,Australian mammal or Marsupial,wombat
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,addax
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,antelope
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,antelope
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,buffalo
+herbivore,mammal,Americas,mammal with horns/antlers/tusks,buffalo
+herbivore,mammal,Americas,mammal with horns/antlers/tusks,caribou
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,caribou
+herbivore,mammal,worldwide,mammal with horns/antlers/tusks,cow
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,deer
+herbivore,mammal,Americas,mammal with horns/antlers/tusks,deer
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,deer
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,elephant
+herbivore,mammal,Asia,mammal with horns/antlers/tusks,elephant
+herbivore,mammal,Americas,mammal with horns/antlers/tusks,elk
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,elk
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,gazelle
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,gazelle
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,giraffe
+herbivore,mammal,worldwide,mammal with horns/antlers/tusks,goat
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,guar
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,ibex
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,ibex
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,impala
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,kudu
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,markhor
+herbivore,mammal,Americas,mammal with horns/antlers/tusks,moose
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,moose
+herbivore,mammal,Americas,mammal with horns/antlers/tusks,musk ox
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,musk ox
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,okapi
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,oryx
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,oryx
+herbivore,mammal,worldwide,mammal with horns/antlers/tusks,ox
+herbivore,mammal,Americas,mammal with horns/antlers/tusks,reindeer
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,reindeer
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,rhino
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,rhino
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,saola
+herbivore,mammal,worldwide,mammal with horns/antlers/tusks,sheep
+carnivore,mammal,Americas,mammal with horns/antlers/tusks,walrus
+carnivore,mammal,Eurasia,mammal with horns/antlers/tusks,walrus
+omnivore,mammal,Africa,mammal with horns/antlers/tusks,warthog
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,water buffalo
+omnivore,mammal,Eurasia,mammal with horns/antlers/tusks,wild boar
+omnivore,mammal,Africa,mammal with horns/antlers/tusks,wild boar
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,wildebeest
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,yak
+herbivore,mammal,Eurasia,mammal with horns/antlers/tusks,zebu
+herbivore,mammal,Africa,mammal with horns/antlers/tusks,zebu
+omnivore,mammal,Africa,primate,ape,chimpanzee
+omnivore,mammal,Eurasia,primate,ape,gibbon
+herbviore,mammal,Africa,primate,ape,gorilla
+omnivore,mammal,worldwide,primate,ape,human
+omnivore,mammal,Eurasia,primate,ape,orangutan
+omnivore,mammal,Africa,primate,lemur
+omnivore,mammal,Eurasia,primate,tarsier
+omnivore,mammal,Africa,primate,monkey,baboon
+omnivore,mammal,Americas,primate,monkey,capuchin
+herbivore,mammal,Americas,primate,monkey,howler monkey
+omnivore,mammal,Eurasia,primate,monkey,macaque
+omnivore,mammal,Africa,primate,monkey,macaque
+omnivore,mammal,Americas,primate,monkey,marmoset
+omnivore,mammal,Africa,primate,monkey,mandrill
+herbivore,mammal,Americas,primate,monkey,spider monkey
+omnivore,mammal,Americas,primate,monkey,squirrel monkey
+herbivore,mammal,Americas,rodent,capybara
+herbivore,mammal,Americas,rodent,beaver
+herbivore,mammal,Eurasia,rodent,beaver
+herbivore,mammal,Americas,rodent,chinchilla
+omnivore,mammal,Americas,rodent,chipmunk
+omnivore,mammal,Americas,rodent,coati
+carnivore,mammal,Africa,rodent,fossa
+omnivore,mammal,rodent,gerbil
+herbivore,mammal,Americas,rodent,gopher
+omnivore,mammal,worldwide,rodent,hamster
+herbivore,mammal,worldwide,rodent,guinea pig
+herbivore,mammal,Eurasia,rodent,hare
+herbivore,mammal,Americas,rodent,hare
+herbivore,mammal,Africa,rodent,hare
+herbivore,mammal,Americas,rodent,lemming
+herbivore,mammal,Eurasia,rodent,lemming
+carnivore,mammal,Africa,rodent,meerkat
+insectivore,mammal,Africa,rodent,meerkat
+omonivore,mammal,worldwide,rodent,mouse
+carnivore,mammal,Eurasia,rodent,mole
+carnivore,mammal,Americas,rodent,mole
+insectivore,mammal,rodent,mole
+omnivore,mammal,Americas,rodent,opossum
+herbivore,mammal,Americas,rodent,prairie dog
+herbivore,mammal,worldwide,rodent,rabbit
+omnivore,mammal,Americas,rodent,racoon
+omnivore,mammal,Eurasia,rodent,racoon
+omnivore,mammal,worldwide,rodent,rat
+omnivore,mammal,Americas,rodent,skunk
+omnivore,mammal,worldwide,rodent,squirrel
+herbivore,mammal,Eurasia,rodent,vole
+herbivore,mammal,Americas,rodent,vole
+herbivore,mammal,Americas,sea or water mammal,beaver
+herbivore,mammal,Eurasia,sea or water mammal,beaver
+carnivore,mammal,worldwide,sea or water mammal,dolphin
+herbivore,mammal,worldwide,sea or water mammal,dugong
+herbivore,mammal,Africa,sea or water mammal,hippo
+herbivore,mammal,Americas,sea or water mammal,manatee
+herbivore,mammal,Africa,sea or water mammal,manatee
+carnivore,mammal,Arctic,sea or water mammal,narwhal
+carnivore,mammal,worldwide,sea or water mammal,orca
+carnivore,mammal,worldwide,sea or water mammal,otter
+carnivore,mammal,Oceania,sea or water mammal,platypus
+insectivore,mammal,Oceania,sea or water mammal,platypus
+carnivore,mammal,worldwide,sea or water mammal,porpoise
+carnivore,mammal,Americas,sea or water mammal,river dolphin
+carnivore,mammal,Eurasia,sea or water mammal,river dolphin
+carnivore,mammal,worldwide,sea or water mammal,sea lion
+carnivore,mammal,worldwide,sea or water mammal,seal
+carnivore,mammal,Arctic,sea or water mammal,walrus
+carnivore,mammal,worldwide,sea or water mammal,whale
+omnivore,mammal,Americas,spiky or armored mammal,armadillo
+insectivore,mammal,Oceania,spiky or armored mammal,echidna
+insectivore,mammal,Eurasia,spiky or armored mammal,hedgehog
+omnivore,mammal,Eurasia,spiky or armored mammal,hedgehog
+insectivore,mammal,Africa,spiky or armored mammal,hedgehog
+omnivore,mammal,Africa,spiky or armored mammal,hedgehog
+insectivore,mammal,Eurasia,spiky or armored mammal,pangolin
+insectivore,mammal,Africa,spiky or armored mammal,pangolin
+herbivore,mammal,Americas,spiky or armored mammal,porcupine
+herbivore,mammal,Africa,spiky or armored mammal,porcupine
+herbivore,mammal,Eurasia,spiky or armored mammal,porcupine
+insectivore,mammal,Africa,other herbivorous mammal,aardvark
+herbivore,mammal,Americas,other herbivorous mammal,alpaca
+insectivore,mammal,Americas,other herbivorous mammal,anteater
+insectivore,mammal,worldwide,other herbivorous mammal,bat
+carnivore,mammal,Americas,other herbivorous mammal,vampire bat
+herbivore,mammal,Americas,other herbivorous mammal,beaver
+herbivore,mammal,Eurasia,other herbivorous mammal,beaver
+herbivore,mammal,Africa,other herbivorous mammal,camel
+herbivore,mammal,Eurasia,other herbivorous mammal,camel
+omnivore,mammal,Americas,other herbivorous mammal,coati
+herbivore,mammal,worldwide,other herbivorous mammal,donkey
+herbivore,mammal,Africa,other herbivorous mammal,dromedary
+herbivore,mammal,Eurasia,other herbivorous mammal,dromedary
+carnivore,mammal,Africa,other herbivorous mammal,fossa
+herbivore,mammal,worldwide,other herbivorous mammal,goat
+herbivore,mammal,worldwide,other herbivorous mammal,hare
+herbivore,mammal,Africa,other herbivorous mammal,hippo
+herbivore,mammal,worldwide,other herbivorous mammal,horse
+herbivore,mammal,Africa,other herbivorous mammal,impala
+herbivore,mammal,Africa,other herbivorous mammal,kudu
+herbivore,mammal,Americas,other herbivorous mammal,llama
+herbivore,mammal,worldwide,other herbivorous mammal,mole
+omnivore,mammal,Eurasia,other herbivorous mammal,mongoose
+omnivore,mammal,Africa,other herbivorous mammal,mongoose
+herbivore,mammal,worldwide,other herbivorous mammal,mule
+herbivore,mammal,Africa,other herbivorous mammal,okapi
+omnivore,mammal,Americas,other herbivorous mammal,opossum
+omnivore,mammal,worldwide,other herbivorous mammal,pig
+herbivore,mammal,worldwide,other herbivorous mammal,rabbit
+omnivore,mammal,Americas,other herbivorous mammal,racoon
+omnivore,mammal,Eurasia,other herbivorous mammal,red panda
+herbivore,mammal,worldwide,other herbivorous mammal,sheep
+omnivore,mammal,Americas,other herbivorous mammal,skunk
+herbivore,mammal,Americas,other herbivorous mammal,sloth
+herbivore,mammal,Americas,other herbivorous mammal,tapir
+herbivore,mammal,Eurasia,other herbivorous mammal,tapir
+carnivore,mammal,worldwide,other herbivorous mammal,weasel
+omnivore,mammal,Americas,other herbivorous mammal,wolverine
+omnivore,mammal,Eurasia,other herbivorous mammal,wolverine
+omnivore,mammal,worldwide,other herbivorous mammal,wolverine
+herbivore,mammal,Africa,other herbivorous mammal,zebra
+omnivore,mammal,Americas,other carnivoran,bear type,black bear
+omnivore,mammal,Eurasia,other carnivoran,bear type,black bear
+omnivore,mammal,Eurasia,other carnivoran,bear type,brown bear
+omnivore,mammal,Americas,other carnivoran,bear type,brown bear
+omnivore,mammal,Americas,other carnivoran,bear type,grizzly bear
+herbivore,mammal,Eurasia,other carnivoran,bear type,panda
+carnivore,mammal,Arctic,other carnivoran,bear type,polar bear
+omnivore,mammal,Eurasia,other carnivoran,bear type,sloth bear
+omnivore,mammal,Americas,other carnivoran,bear type,spectacled bear
+omnivore,mammal,Eurasia,other carnivoran,bear type,sun bear
+carnivore,mammal,Americas,other carnivoran,dog type,coyote
+carnivore,mammal,Oceania,other carnivoran,dog type,dingo
+omnivore,mammal,worldwide,other carnivoran,dog type,fox
+carnivore,mammal,Africa,other carnivoran,dog type,hyena
+carnivore,mammal,Eurasia,other carnivoran,dog type,hyena
+carnivore,mammal,Africa,other carnivoran,dog type,jackal
+carnivore,mammal,Eurasia,other carnivoran,dog type,jackal
+omnivore,mammal,worldwide,other carnivoran,dog type,pet dog
+carnivore,mammal,Eurasia,other carnivoran,dog type,wolf
+carnivore,mammal,Americas,other carnivoran,dog type,wolf
+omnivore,mammal,Americas,other carnivoran,dog type,maned wolf
+carnivore,mammal,Americas,other carnivoran,cat-like,bobcat
+carnivore,mammal,Africa,other carnivoran,cat-like,cheetah
+carnivore,mammal,Eurasia,other carnivoran,cat-like,cheetah
+omnivore,mammal,Eurasia,other carnivoran,cat-like,civet
+omnivore,mammal,Africa,other carnivoran,cat-like,civet
+carnivore,mammal,worldwide,other carnivoran,cat-like,house cat
+carnivore,mammal,Americas,other carnivoran,cat-like,jaguar
+carnivore,mammal,Africa,other carnivoran,cat-like,leopard
+carnivore,mammal,Eurasia,other carnivoran,cat-like,leopard
+carnivore,mammal,only in captivity,other carnivoran,cat-like,liger
+carnivore,mammal,Africa,other carnivoran,cat-like,lion
+carnivore,mammal,Eurasia,other carnivoran,cat-like,lion
+carnivore,mammal,Americas,other carnivoran,cat-like,lynx
+carnivore,mammal,Eurasia,other carnivoran,cat-like,lynx
+carnivore,mammal,Americas,other carnivoran,cat-like,ocelot
+carnivore,mammal,Africa,other carnivoran,cat-like,panther
+carnivore,mammal,Eurasia,other carnivoran,cat-like,panther
+carnivore,mammal,Americas,other carnivoran,cat-like,panther
+carnivore,mammal,worldwide,other carnivoran,cat-like,panther
+carnivore,mammal,Americas,other carnivoran,cat-like,puma
+carnivore,mammal,Eurasia,other carnivoran,cat-like,tiger
+omnivore,mammal,Eurasia,other carnivoran,mustelid,badger
+omnivore,mammal,Americas,other carnivoran,mustelid,badger
+omnivore,mammal,Africa,other carnivoran,mustelid,badger
+carnivore,mammal,worldwide,other carnivoran,mustelid,ferret
+carnivore,mammal,Eurasia,other carnivoran,mustelid,mink
+carnivore,mammal,Americas,other carnivoran,mustelid,mink
+carnivore,mammal,Eurasia,other carnivoran,mustelid,weasel
+carnivore,mammal,Americas,other carnivoran,mustelid,weasel
+carnivore,mammal,Africa,other carnivoran,mustelid,weasel
+omnivore,mammal,Eurasia,other carnivoran,mustelid,wolverine
+omnivore,mammal,Americas,other carnivoran,mustelid,wolverine
+insectivore,mammal,Africa,other,aardvark
+insectivore,mammal,Americas,other,anteater
+insectivore,mammal,worldwide,other,bat
+omnivore,mammal,Eurasia,other,badger
+omnivore,mammal,Americas,other,badger
+omnivore,mammal,Africa,other,badger
+omnivore,mammal,Eurasia,other,civet
+omnivore,mammal,Africa,other,civet
+omnivore,mammal,Americas,other,coati
+carnivore,mammal,Eurasia,other,mink
+carnivore,mammal,Americas,other,mink
+omnivore,mammal,Eurasia,other,mongoose
+omnivore,mammal,Africa,other,mongoose
+omnivore,mammal,Americas,other,opossum
+omnivore,mammal,Americas,other,racoon
+omnivore,mammal,Eurasia,other,red panda
+omnivore,mammal,Americas,other,skunk
+herbviore,mammal,Americas,other,sloth
+carnivore,mammal,Eurasia,other,weasel
+carnivore,mammal,Americas,other,weasel
+carnivore,mammal,Africa,other,weasel
+omnivore,mammal,Eurasia,other,wolverine
+omnivore,mammal,Americas,,other,wolverine
+carnivore,amphibian,Americas,axolotl
+carnivore,amphibian,worldwide,frog
+carnivore,amphibian,Eurasia,olm
+carnivore,amphibian,Americas,salamander
+carnivore,amphibian,Eurasia,salamander
+carnivore,amphibian,worldwide,toad
+omnivore,reptile,lizard,Oceania,bearded dragon
+carnivore,reptile,worldwide,snake,viper
+carnivore,reptile,Americas,other reptile,alligator
+carnivore,reptile,Eurasia,other reptile,alligator
+carnivore,reptile,Americas,other reptile,caimain
+carnivore,reptile,worldwide,other reptile,crocodile
+carnivore,reptile,worldwide,other reptile,dinosaur
+herbivore,reptile,worldwide,other reptile,tortoise
+herbivore,reptile,worldwide,other reptile,turtle
+carnivore,reptile,Africa,lizard,chameleon
+carnivore,reptile,Eurasia,lizard,chameleon
+carnivore,reptile,Oceania,snake,seasnake
+carnivore,reptile,Eurasia,snake,seasnake
+carnivore,reptile,Americas,snake,rattlesnake
+carnivore,reptile,Africa,snake,python
+carnivore,reptile,Oceania,snake,python
+carnivore,reptile,Eurasia,snake,python
+carnivore,reptile,Africa,snake,mamba
+carnivore,reptile,Americas,snake,kingsnake
+carnivore,reptile,Americas,snake,garter snake
+carnivore,reptile,Americas,snake,galapagos snake
+carnivore,reptile,Americas,snake,cottonmouth
+carnivore,reptile,Americas,snake,copperhead snake
+carnivore,reptile,Eurasia,snake,cobra
+carnivore,reptile,Africa,snake,cobra
+carnivore,reptile,Americas,snake,boa
+carnivore,reptile,Africa,snake,boa
+carnivore,reptile,Africa,snake,black mamba
+carnivore,reptile,Americas,snake,anaconda
+omnivore,reptile,Americas,lizard,collared lizard
+carnivore,reptile,Oceania,lizard,frilled lizard
+carnivore,reptile,worldwide,lizard,gecko
+omnivore,reptile,Americas,lizard,gila monster
+carnivore,reptile,Americas,lizard,glass lizard
+carnivore,reptile,Eurasia,lizard,glass lizard
+insectivore,reptile,Americas,lizard,horned lizard
+herbivore,reptile,Americas,lizard,iguana
+carnivore,reptile,Oceania,lizard,komodo dragon
+carnivore,reptile,Eurasia,lizard,komodo dragon
+insectivore,reptile,Americas,lizard,lava lizard
+carnivore,reptile,worldwide,lizard,legless lizard
+herbivore,reptile,Americas,lizard,marine iguana
+carnivore,reptile,Africa,lizard,monitor
+carnivore,reptile,Eurasia,lizard,monitor
+carnivore,reptile,Oceania,lizard,monitor
+carnivore,reptile,worldwide,lizard,monitor
+carnivore,reptile,Americas,lizard,newt
+carnivore,reptile,Eurasia,lizard,newt
+carnivore,reptile,worldwide,lizard,newt
+carnivore,reptile,Eurasia,lizard,sand lizard
+insectivore,reptile,Oceania,lizard,thorny devil
+carnivore,reptile,Oceania,lizard,tuatara
+omnivore,reptile,Oceania,lizard,water dragon
+omnivore,reptile,Eurasia,,lizard,water dragon
+omnivore,bird,worldwide,big bird,crane
+herbivore,bird,Oceania,big bird,emu
+omnivore,bird,Africa,big bird,ostrich
+omnivore,bird,worldwide,big bird,flamingo
+omnivore,bird,worldwide,big bird,ibis
+herbivore,bird,Oceania,big bird,kakapo
+omnivore,bird,Oceania,big bird,kiwi
+omnivore,bird,worldwide,big bird,spoonbill
+carnivore,bird,Antarctica,big bird,penguin
+carnivore,bird,Africa,big bird,penguin
+carnivore,bird,Americas,big bird,penguin
+carnivore,bird,Oceania,big bird,penguin
+carnivore,bird,worldwide,big bird,penguin
+carnivore,bird,worldwide,big bird,stork
+omnivore,bird,Americas,big bird,umbrella bird
+carnivore,bird,Eurasia,bird of prey,buzzard
+carnivore,bird,Americas,bird of prey,buzzard
+carnivore,bird,worldwide,bird of prey,buzzard
+carnivore,bird,Americas,bird of prey,condor
+carnivore,bird,worldwide,bird of prey,eagle
+carnivore,bird,worldwide,bird of prey,falcon
+carnivore,bird,worldwide,bird of prey,hawk
+carnivore,bird,worldwide,bird of prey,kite
+carnivore,bird,worldwide,bird of prey,osprey
+carnivore,bird,worldwide,bird of prey,owl
+carnivore,bird,worldwide,bird of prey,vulture
+insectivore,bird,Eurasia,colorful bird,bee eater
+insectivore,bird,Africa,colorful bird,bee eater
+insectivore,bird,worldwide,colorful bird,bee eater
+omnivore,bird,Oceania,colorful bird,bird of paradise
+omnivore,bird,Oceania,colorful bird,cockatoo
+omnivore,bird,worldwide,colorful bird,finch
+herbivore,bird,Oceania,colorful bird,kakapo
+carnivore,bird,worldwide,colorful bird,kingfisher
+herbivore,bird,Oceania,colorful bird,lorikeet
+herbivore,bird,Africa,colorful bird,lovebird
+omnivore,bird,Americas,colorful bird,macaw
+omnivore,bird,worldwide,colorful bird,oriole
+omnivore,bird,worldwide,colorful bird,parakeet
+omnivore,bird,worldwide,colorful bird,parrot
+omnivore,bird,Americas,colorful bird,quetzal
+omnivore,bird,Americas,colorful bird,robin
+omnivore,bird,Americas,colorful bird,toucan
+omnivore,bird,Americas,colorful bird,umbrella bird
+omnivore,bird,worldwide,game bird,crane
+omnivore,bird,worldwide,game bird,dove
+omnivore,bird,worldwide,game bird,duck
+herbivore,bird,worldwide,game bird,goose
+omnivore,bird,worldwide,game bird,grouse
+omnivore,bird,Americas,game bird,grouse
+omnivore,bird,Eurasia,game bird,grouse
+omnivore,bird,Eurasia,game bird,partridge
+omnivore,bird,Americas,game bird,partridge
+omnivore,bird,worldwide,game bird,partridge
+omnivore,bird,Eurasia,game bird,pheasant
+omnivore,bird,Americas,game bird,pheasant
+omnivore,bird,worldwide,game bird,quail
+omnivore,bird,worldwide,game bird,snipe
+omnivore,bird,Americas,game bird,turkey
+carnivore,bird,worldwide,sea or water bird,albatross
+carnivore,bird,Antarctica,sea or water bird,albatross
+carnivore,bird,Americas,sea or water bird,albatross
+carnivore,bird,Africa,sea or water bird,albatross
+carnivore,bird,Oceania,sea or water bird,albatross
+carnivore,bird,Americas,sea or water bird,booby
+carnivore,bird,worldwide,sea or water bird,cormorant
+carnivore,bird,worldwide,sea or water bird,grebe
+carnivore,bird,worldwide,sea or water bird,kingfisher
+omnivore,bird,worldwide,sea or water bird,moorhen
+carnivore,bird,worldwide,sea or water bird,penguin
+omnivore,bird,worldwide,sea or water bird,plover
+carnivore,bird,worldwide,sea or water bird,pelican
+carnivore,bird,Eurasia,sea or water bird,puffin
+carnivore,bird,Americas,sea or water bird,puffin
+omnivore,bird,worldwide,sea or water bird,seagull
+omnivore,bird,worldwide,sea or water bird,swan
+carnivore,bird,worldwide,sea or water bird,tern
+omnivore,bird,worldwide,sea or water bird,spoonbill
+omnivore,bird,worldwide,songbird,blackbird
+omnivore,bird,Americas,songbird,bluebird
+omnivore,bird,Americas,songbird,bluejay
+omnivore,bird,Americas,songbird,cardinal
+omnivore,bird,Eurasia,songbird,crake
+omnivore,bird,Africa,songbird,crake
+omnivore,bird,worldwide,songbird,crake
+omnivore,bird,worldwide,songbird,finch
+omnivore,bird,worldwide,songbird,magpie
+omnivore,bird,Americas,songbird,mockingbird
+omnivore,bird,Eurasia,songbird,nightingale
+omnivore,bird,Americas,songbird,oriole
+omnivore,bird,Eurasia,songbird,robin
+omnivore,bird,Americas,songbird,robin
+omnivore,bird,worldwide,songbird,wren
+omnivore,bird,Eurasia,songbird,uguisu
+carnivore,bird,Eurasia,other bird,beeeater
+carnivore,bird,Africa,other bird,beeeater
+carnivore,bird,worldwide,other bird,beeeater
+omnivore,bird,worldwide,other bird,chicken
+omnivore,bird,worldwide,other bird,crow
+omnivore,bird,Eurasia,other bird,cuckoo
+omnivore,bird,Africa,other bird,cuckoo
+omnivore,bird,worldwide,other bird,cuckoo
+omnivore,bird,Americas,other bird,hummingbird
+omnivore,bird,worldwide,other bird,raven
+carnivore,fish,worldwide,edible fish,anchovy
+carnivore,fish,Eurasia,edible fish,barracuda
+carnivore,fish,Americas,edible fish,barracuda
+carnivore,fish,Oceania,edible fish,barracuda
+carnivore,fish,worldwide,edible fish,barracuda
+carnivore,fish,Eurasia,edible fish,bass
+carnivore,fish,Americas,edible fish,bass
+carnivore,fish,worldwide,edible fish,bass
+omnivore,fish,Eurasia,edible fish,catfish
+omnivore,fish,Americas,edible fish,catfish
+omnivore,fish,Africa,edible fish,catfish
+omnivore,fish,worldwide,edible fish,catfish
+carnivore,fish,Eurasia,edible fish,cod
+carnivore,fish,Americas,edible fish,cod
+carnivore,fish,worldwide,edible fish,cod
+carnivore,fish,worldwide,edible fish,eel
+carnivore,fish,Eurasia,edible fish,flounder
+carnivore,fish,Americas,edible fish,flounder
+carnivore,fish,worldwide,edible fish,flounder
+carnivore,fish,Eurasia,edible fish,grouper
+carnivore,fish,Americas,edible fish,grouper
+carnivore,fish,Oceania,edible fish,grouper
+carnivore,fish,worldwide,edible fish,grouper
+omnivore,fish,Eurasia,edible fish,herring
+omnivore,fish,Americas,edible fish,herring
+carnivore,fish,Eurasia,edible fish,pike
+carnivore,fish,Americas,edible fish,pike
+carnivore,fish,worldwide,edible fish,pike
+omnivore,fish,Eurasia,edible fish,salmon
+omnivore,fish,Americas,edible fish,salmon
+omnivore,fish,worldwide,edible fish,salmon
+omnivore,fish,Eurasia,edible fish,sardine
+omnivore,fish,Americas,edible fish,sardine
+omnivore,fish,Africa,edible fish,sardine
+omnivore,fish,worldwide,edible fish,sardine
+carnivore,fish,worldwide,edible fish,shark
+carnivore,fish,Eurasia,edible fish,swordfish
+carnivore,fish,Americas,edible fish,swordfish
+carnivore,fish,Oceania,edible fish,swordfish
+carnivore,fish,worldwide,edible fish,swordfish
+omnivore,fish,Africa,edible fish,tilapia
+omnivore,fish,Americas,edible fish,tilapia
+omnivore,fish,Eurasia,edible fish,tilapia
+omnivore,fish,worldwide,edible fish,tilapia
+carnivore,fish,Americas,edible fish,trout
+carnivore,fish,Eurasia,edible fish,trout
+carnivore,fish,worldwide,edible fish,tuna
+omnivore,fish,Americas,pet fish,angelfish
+omnivore,fish,Eurasia,pet fish,barb
+omnivore,fish,Africa,pet fish,barb
+carnivore,fish,Eurasia,pet fish,betta
+omnivore,fish,Eurasia,pet fish,catfish
+omnivore,fish,Americas,pet fish,catfish
+omnivore,fish,Africa,pet fish,catfish
+omnivore,fish,worldwide,pet fish,catfish
+omnivore,fish,Oceania,pet fish,clownfish
+carnivore,fish,worldwide,pet fish,eel
+omnivore,fish,Eurasia,pet fish,goldfish
+omnivore,fish,Americas,pet fish,guppy
+omnivore,fish,Eurasia,pet fish,koi
+omnivore,fish,Eurasia,pet fish,minnow
+omnivore,fish,Americas,pet fish,minnow
+omnivore,fish,worldwide,pet fish,minnow
+omnivore,fish,Americas,pet fish,molly
+carnivore,fish,Americas,pet fish,piranha
+carnivore,fish,Eurasia,pet fish,pufferfish
+carnivore,fish,Americas,pet fish,pufferfish
+carnivore,fish,Oceania,pet fish,pufferfish
+carnivore,fish,worldwide,pet fish,pufferfish
+omnivore,fish,worldwide,pet fish,shark
+omnivore,fish,Oceania,pet fish,tang(Dory)
+carnivore,fish,worldwide,pet fish,stingray
+omnivore,fish,Americas,pet fish,tetra
+carnivore,fish,Eurasia,pet fish,wrasse
+carnivore,fish,Oceania,pet fish,wrasse
+carnivore,fish,Americas,pet fish,wrasse
+carnivore,fish,worldwide,pet fish,wrasse
+carnivore,fish,worldwide,other fish,moray eel
+carnivore,fish,worldwide,other fish,eel
+carnivore,fish,Eurasia,other fish,pike
+carnivore,fish,Americas,other fish,pike
+carnivore,fish,worldwide,other fish,pike
+carnivore,fish,Americas,other fish,piranha
+carnivore,fish,worldwide,other fish,pufferfish
+carnivore,fish,worldwide,other fish,shark
+carnivore,fish,Eurasia,other fish,swordfish
+carnivore,fish,Oceania,other fish,swordfish
+carnivore,fish,Americas,other fish,swordfish
+carnivore,fish,worldwide,other fish,swordfish
+carnivore,fish,Eurasia,other fish,stingray
+carnivore,fish,Americas,other fish,stingray
+carnivore,fish,Oceania,other fish,stingray
+carnivore,fish,Africa,other fish,stingray
+carnivore,fish,worldwide,other fish,stingray
+carnivore,fish,Eurasia,other fish,wrasse
+carnivore,fish,Oceania,other fish,wrasse
+carnivore,fish,Americas,other fish,wrasse
+carnivore,fish,worldwide,other fish,wrasse

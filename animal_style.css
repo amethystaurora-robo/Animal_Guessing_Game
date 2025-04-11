@@ -1,0 +1,39 @@
+head, footer {
+	width: 100%;
+	height: 35%;
+	background-color: #020502;
+	padding: 100px 100px;
+	position: fixed;
+	font-size: 200px;
+	margin-left: -20px;
+}
+
+body {
+	background-color: #4caf78;
+	font-family: 'Arial';
+	font-size: 60px;
+	margin: 10px;
+	padding: 10px;
+	border: 10px;
+	text-align: center;
+}
+
+button {
+	background-color: #5ed963;
+	border: 50px 50px;
+	padding: 50px 90px;
+	margin: 30px;
+	border-radius: 10px;
+	font-size: 30px;
+}
+
+button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

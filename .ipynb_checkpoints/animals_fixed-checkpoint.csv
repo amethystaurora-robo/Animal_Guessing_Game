@@ -1,0 +1,1075 @@
+,domesticated,diet,habitat,Kingdom,region,subtype,species
+0,wild animal,omnivore,terrestrial animal,mammal,animal found in Oceania,marsupial,bandicoot
+1,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,marsupial,flying squirrel
+2,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,marsupial,flying squirrel
+3,wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,marsupial,kangaroo
+4,wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,marsupial,koala bear
+5,wild animal,insectivore,terrestrial animal,mammal,animal found in Oceania,marsupial,numbat
+6,wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,marsupial,platypus
+7,wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,marsupial,quokka
+8,wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,marsupial,quoll
+9,wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,animal with spots,quoll
+10,wild animal,omnivore,terrestrial animal,mammal,animal found in Oceania,marsupial,sugar glider
+11,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,marsupial,sugar glider
+12,wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,marsupial,tasmanian devil
+13,wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,marsupial,wallaby
+14,wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,marsupial,wombat
+15,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,addax
+16,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,antelope
+17,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,antelope
+18,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,buffalo
+19,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,buffalo
+20,domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,buffalo
+21,domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,buffalo
+22,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,caribou
+23,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,caribou
+24,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,cow
+25,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with spots,cow
+26,domesticated animal,herbivore,terrestrial animal,mammal,animal found Eurasia,animal with horns antlers or tusks,cow
+27,domesticated animal,herbivore,terrestrial animal,mammal,animal found Eurasia,animal with spots,cow
+28,domesticated animal,herbivore,terrestrial animal,mammal,animal found Africa,animal with horns antlers or tusks,cow
+29,domesticated animal,herbivore,terrestrial animal,mammal,animal found Africa,animal with spots,cow
+30,domesticated animal,herbivore,terrestrial animal,mammal,animal found the Americas,animal with horns antlers or tusks,cow
+31,domesticated animal,herbivore,terrestrial animal,mammal,animal found the Americas,animal with spots,cow
+32,domesticated animal,herbivore,terrestrial animal,mammal,animal found Oceania,animal with horns antlers or tusks,cow
+33,domesticated animal,herbivore,terrestrial animal,mammal,animal found Oceania,animal with spots,cow
+34,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,deer
+35,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,deer
+36,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,deer
+37,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with spots,deer
+38,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with spots,deer
+39,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with spots,deer
+40,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,elephant
+41,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,elephant
+42,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,elk
+43,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,elk
+44,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,gazelle
+45,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,gazelle
+46,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with spots,gazelle
+47,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with spots,gazelle
+48,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with spots,giraffe
+49,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,giraffe
+50,wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,goat
+51,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,goat
+52,wild animal,herbivore,terrestrial animal,mammal,animal found Eurasia,animal with horns antlers or tusks,goat
+53,domesticated animal,herbivore,terrestrial animal,mammal,animal found Eurasia,animal with horns antlers or tusks,goat
+54,wild animal,herbivore,terrestrial animal,mammal,animal found Africa,animal with horns antlers or tusks,goat
+55,domesticated animal,herbivore,terrestrial animal,mammal,animal found Africa,animal with horns antlers or tusks,goat
+56,wild animal,herbivore,terrestrial animal,mammal,animal found the Americas,animal with horns antlers or tusks,goat
+57,domesticated animal,herbivore,terrestrial animal,mammal,animal found the Americas,animal with horns antlers or tusks,goat
+58,wild animal,herbivore,terrestrial animal,mammal,animal found Oceania,animal with horns antlers or tusks,goat
+59,domesticated animal,herbivore,terrestrial animal,mammal,animal found Oceania,animal with horns antlers or tusks,goat
+60,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,guar
+61,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,ibex
+62,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,ibex
+63,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,impala
+64,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,kudu
+65,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with stripes,kudu
+66,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,markhor
+67,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,moose
+68,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,moose
+69,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,musk ox
+70,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,musk ox
+71,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with stripes,okapi
+72,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,okapi
+73,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,oryx
+74,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,oryx
+75,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,ox
+76,domesticated animal,herbivore,terrestrial animal,mammal,animal found Eurasia,animal with horns antlers or tusks,ox
+77,domesticated animal,herbivore,terrestrial animal,mammal,animal found Africa,animal with horns antlers or tusks,ox
+78,domesticated animal,herbivore,terrestrial animal,mammal,animal found the Americas,animal with horns antlers or tusks,ox
+79,domesticated animal,herbivore,terrestrial animal,mammal,animal found Oceania,animal with horns antlers or tusks,ox
+80,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,reindeer
+81,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,reindeer
+82,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,rhino
+83,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,rhino
+84,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,,saola
+85,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,sheep
+86,domesticated animal,herbivore,terrestrial animal,mammal,animal found Eurasia,animal with horns antlers or tusks,sheep
+87,domesticated animal,herbivore,terrestrial animal,mammal,animal found Africa,animal with horns antlers or tusks,sheep
+88,domesticated animal,herbivore,terrestrial animal,mammal,animal found the Americas,animal with horns antlers or tusks,sheep
+89,domesticated animal,herbivore,terrestrial animal,mammal,animal found Oceania,animal with horns antlers or tusks,sheep
+90,wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,animal with horns antlers or tusks,walrus
+91,wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,walrus
+92,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,warthog
+93,wild animal,herbivore,semi-aquatic animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,water buffalo
+94,domesticated animal,herbivore,semi-aquatic animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,water buffalo
+95,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,wild boar
+96,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,wild boar
+97,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,wildebeest
+98,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,yak
+99,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,zebu
+100,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,zebu
+101,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,primate,chimpanzee
+102,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,primate,gibbon
+103,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,primate,gorilla
+104,wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,primate,human
+105,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,primate,human
+106,wild animal,omnivore,terrestrial animal,mammal,animal found Eurasia,primate,human
+107,domesticated animal,omnivore,terrestrial animal,mammal,animal found Eurasia,primate,human
+108,wild animal,omnivore,terrestrial animal,mammal,animal found Africa,primate,human
+109,domesticated animal,omnivore,terrestrial animal,mammal,animal found Africa,primate,human
+110,wild animal,omnivore,terrestrial animal,mammal,animal found the Americas,primate,human
+111,domesticated animal,omnivore,terrestrial animal,mammal,animal found the Americas,primate,human
+112,wild animal,omnivore,terrestrial animal,mammal,animal found Oceania,primate,human
+113,domesticated animal,omnivore,terrestrial animal,mammal,animal found Oceania,primate,human
+114,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,primate,orangutan
+115,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,primate,lemur
+116,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,primate,tarsier
+117,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,primate,baboon
+118,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,primate,capuchin
+119,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,primate,howler monkey
+120,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,primate,macaque
+121,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,primate,macaque
+122,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,primate,marmoset
+123,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,primate,mandrill
+124,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,primate,spider monkey
+125,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,primate,squirrel monkey
+126,wild animal,herbivore,semi-aquatic animal,mammal,animal found in the Americas,rodent,capybara
+127,wild animal,herbivore,semi-aquatic animal,mammal,animal found in the Americas,rodent,beaver
+128,wild animal,herbivore,semi-aquatic animal,mammal,animal found in Eurasia,rodent,beaver
+129,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,chinchilla
+130,domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,chinchilla
+131,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,rodent,chipmunk
+132,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,animal with stripes,chipmunk
+133,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,,coati
+134,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,animal with stripes,coati
+135,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,,fossa
+136,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,gerbil
+137,domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,rodent,gerbil
+138,domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,rodent,gerbil
+139,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,gopher
+140,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,hamster
+141,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,rodent,guinea pig
+142,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,,hare
+143,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,,hare
+144,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,,hare
+145,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,lemming
+146,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,rodent,lemming
+147,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,,meerkat
+148,wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,,meerkat
+149,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,animal with stripes,meerkat
+150,wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,animal with stripes,meerkat
+151,wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,mouse
+152,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,mouse
+153,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,,mole
+154,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,,mole
+155,wild animal,insectivore,terrestrial animal,mammal,animal found in Eurasia,brown animal,mole
+156,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,marsupial,opossum
+157,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,prairie dog
+158,wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,,rabbit
+159,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,,rabbit
+160,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,,racoon
+161,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,,racoon
+162,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,animal with stripes,racoon
+163,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,animal with stripes,racoon
+164,wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,rat
+165,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,rat
+166,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,mustelid,skunk
+167,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,,skunk
+168,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,animal with stripes,skunk
+169,wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,squirrel
+170,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,rodent,vole
+171,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,vole
+172,wild animal,carnivore,aquatic animal,mammal,animal found worldwide,,dolphin
+173,wild animal,herbivore,aquatic animal,mammal,animal found worldwide,,dugong
+174,wild animal,herbivore,semi-aquatic animal,mammal,animal found in Africa,,hippo
+175,wild animal,herbivore,aquatic animal,mammal,animal found in the Americas,,manatee
+176,wild animal,herbivore,aquatic animal,mammal,animal found in Africa,,manatee
+177,wild animal,carnivore,aquatic animal,mammal,animal found in the Arctic,animal with horns antlers or tusks,narwhal
+178,wild animal,carnivore,aquatic animal,mammal,animal found worldwide,,orca
+179,wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,,otter
+180,wild animal,insectivore,semi-aquatic animal,mammal,animal found in Oceania,,platypus
+181,wild animal,carnivore,aquatic animal,mammal,animal found worldwide,,porpoise
+182,wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,,river dolphin
+183,wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,,river dolphin
+184,wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,,sea lion
+185,wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,,seal
+186,wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Arctic,animal with horns antlers or tusks,walrus
+187,wild animal,carnivore,aquatic animal,mammal,animal found worldwide,,whale
+188,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,animal with armor or spikes,armadillo
+189,wild animal,insectivore,terrestrial animal,mammal,animal found in Oceania,,animal with armor or spikes
+190,wild animal,insectivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,hedgehog
+191,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,hedgehog
+192,wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,animal with armor or spikes,hedgehog
+193,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,animal with armor or spikes,hedgehog
+194,domesticated animal,insectivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,hedgehog
+195,domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,hedgehog
+196,domesticated animal,insectivore,terrestrial animal,mammal,animal found in Africa,animal with armor or spikes,hedgehog
+197,domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,animal with armor or spikes,hedgehog
+198,wild animal,insectivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,pangolin
+199,wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,animal with armor or spikes,pangolin
+200,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with armor or spikes,porcupine
+201,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with armor or spikes,porcupine
+202,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,porcupine
+203,wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,,aardvark
+204,domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,,alpaca
+205,wild animal,insectivore,terrestrial animal,mammal,animal found in the Americas,,anteater
+206,wild animal,insectivore,terrestrial animal,mammal,animal found worldwide,,bat
+207,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,,vampire bat
+208,domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,,camel
+209,domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,,camel
+210,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,,donkey
+211,domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,,dromedary
+212,domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,,dromedary
+213,wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,,hare
+214,wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,,horse
+215,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,,horse
+216,domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,,llama
+217,wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,,mole
+218,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,,mongoose
+219,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,,mongoose
+220,domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,,mule
+221,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,,pig
+222,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,,red panda
+223,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,,sloth
+224,wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,,tapir
+225,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,,tapir
+226,wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,,zebra
+227,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,bear,black bear
+228,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,bear,black bear
+229,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,bear,brown bear
+230,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,bear,brown bear
+231,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,bear,grizzly bear
+232,wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,bear,panda
+233,wild animal,carnivore,terrestrial animal,mammal,animal found in the Arctic,bear,polar bear
+234,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,bear,sloth bear
+235,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,bear,spectacled bear
+236,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,bear,sun bear
+237,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,canine,coyote
+238,wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,canine,dingo
+239,wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,canine,fox
+240,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,canine,fox
+241,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,,hyena
+242,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,,hyena
+243,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,canine,jackal
+244,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,canine,jackal
+245,domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,canine,pet dog
+246,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,canine,wolf
+247,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,canine,wolf
+248,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,canine,maned wolf
+249,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,bobcat
+250,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,feline,cheetah
+251,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,cheetah
+252,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,feline,civet
+253,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,feline,civet
+254,domesticated animal,carnivore,terrestrial animal,mammal,animal found worldwide,feline,house cat
+255,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,jaguar
+256,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,feline,leopard
+257,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,leopard
+258,wild animal,carnivore,terrestrial animal,mammal,animal found only in captivity,feline,liger
+259,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,feline,lion
+260,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,lion
+261,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,lynx
+262,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,lynx
+263,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,ocelot
+264,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,feline,panther
+265,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,panther
+266,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,panther
+267,wild animal,carnivore,terrestrial animal,mammal,animal found worldwide,feline,panther
+268,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,puma
+269,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,tiger
+270,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,mustelid,badger
+271,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,mustelid,badger
+272,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,mustelid,badger
+273,domesticated animal,carnivore,terrestrial animal,mammal,animal found worldwide,mustelid,ferret
+274,wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,mustelid,mink
+275,wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,mustelid,mink
+276,domesticated animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,mustelid,mink
+277,domesticated animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,mustelid,mink
+278,wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,mustelid,weasel
+279,wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,mustelid,weasel
+280,wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,mustelid,weasel
+281,wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,mustelid,weasel
+282,wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,mustelid,weasel
+283,wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,mustelid,weasel
+284,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,mustelid,wolverine
+285,wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,mustelid,wolverine
+286,wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,,civet
+287,wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,,civet
+288,wild animal,carnivore,aquatic animal,amphibian,animal found in the Americas,,axolotl
+289,wild animal,carnivore,semi-aquatic animal,amphibian,animal found worldwide,,frog
+290,wild animal,carnivore,aquatic animal,amphibian,animal found in Eurasia,,olm
+291,wild animal,carnivore,semi-aquatic animal,amphibian,animal found in the Americas,,salamander
+292,wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Eurasia,,salamander
+293,wild animal,carnivore,semi-aquatic animal,amphibian,animal found worldwide,,toad
+294,wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,snake,viper
+295,wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,alligator
+296,wild animal,carnivore,semi-aquatic animal,reptile,animal found in Eurasia,a reptile apart from a lizard or snake,alligator
+297,wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,caimain
+298,wild animal,carnivore,semi-aquatic animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,crocodile
+299,wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,dinosaur
+300,wild animal,herbivore,terrestrial animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,tortoise
+301,wild animal,herbivore,semi-aquatic animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,turtle
+302,wild animal,herbivore,aquatic animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,sea turtle
+303,wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,lizard,chameleon
+304,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,chameleon
+305,wild animal,carnivore,aquatic animal,reptile,animal found in Oceania,snake,seasnake
+306,wild animal,carnivore,aquatic animal,reptile,animal found in Eurasia,snake,seasnake
+307,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,snake,rattlesnake
+308,wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,snake,python
+309,wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,snake,python
+310,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,snake,python
+311,wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,snake,mamba
+312,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,snake,kingsnake
+313,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,snake,garter snake
+314,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,snake,galapagos snake
+315,wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,snake,cottonmouth
+316,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,snake,copperhead snake
+317,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,snake,cobra
+318,wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,snake,cobra
+319,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,snake,boa
+320,wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,snake,boa
+321,wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,snake,black mamba
+322,wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,snake,anaconda
+323,wild animal,omnivore,terrestrial animal,reptile,animal found in the Americas,lizard,collared lizard
+324,wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,lizard,frilled lizard
+325,wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,lizard,gecko
+326,wild animal,omnivore,terrestrial animal,reptile,animal found in the Americas,lizard,gila monster
+327,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,lizard,glass lizard
+328,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,glass lizard
+329,wild animal,insectivore,terrestrial animal,reptile,animal found in the Americas,lizard,horned lizard
+330,wild animal,herbivore,terrestrial animal,reptile,animal found in the Americas,lizard,iguana
+331,wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,lizard,komodo dragon
+332,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,komodo dragon
+333,wild animal,insectivore,terrestrial animal,reptile,animal found in the Americas,lizard,lava lizard
+334,wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,lizard,legless lizard
+335,wild animal,herbivore,terrestrial animal,reptile,animal found in the Americas,lizard,marine iguana
+336,wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,lizard,monitor
+337,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,monitor
+338,wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,lizard,monitor
+339,wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,lizard,monitor
+340,wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,lizard,newt
+341,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,newt
+342,wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,lizard,newt
+343,wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,sand lizard
+344,wild animal,insectivore,terrestrial animal,reptile,animal found in Oceania,lizard,thorny devil
+345,wild animal,omnivore,terrestrial animal,reptile,animal found in Oceania,lizard,bearded dragon
+346,wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,lizard,tuatara
+347,wild animal,omnivore,semi-aquatic animal,reptile,animal found in Oceania,lizard,water dragon
+348,wild animal,omnivore,semi-aquatic animal,reptile,animal found in Eurasia,lizard,water dragon
+349,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,crane
+350,wild animal,herbivore,terrestrial animal,bird,animal found in Oceania,grey brown white or black bird,emu
+351,domesticated animal,herbivore,terrestrial animal,bird,animal found in Oceania,,grey brown white or black birdemu
+352,wild animal,omnivore,terrestrial animal,bird,animal found in Africa,,grey brown white or black birdostrich
+353,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,flamingo
+354,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,ibis
+355,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,ibis
+356,wild animal,herbivore,terrestrial animal,bird,animal found in Oceania,brightly colored bird,kakapo
+357,wild animal,omnivore,terrestrial animal,bird,animal found in Oceania,grey brown white or black bird,kiwi
+358,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,spoonbill
+359,wild animal,carnivore,semi-aquatic animal,bird,animal found in Antanimal found in the Arctica,grey brown white or black bird,penguin
+360,wild animal,carnivore,semi-aquatic animal,bird,animal found in Africa,grey brown white or black bird,penguin
+361,wild animal,carnivore,semi-aquatic animal,bird,animal found in the Americas,grey brown white or black bird,penguin
+362,wild animal,carnivore,semi-aquatic animal,bird,animal found in Oceania,grey brown white or black bird,penguin
+363,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,penguin
+364,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,stork
+365,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,umbrella bird
+366,wild animal,carnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,buzzard
+367,wild animal,carnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,buzzard
+368,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,buzzard
+369,wild animal,carnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,condor
+370,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,eagle
+371,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,falcon
+372,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,hawk
+373,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,kite
+374,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,osprey
+375,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,owl
+376,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,vulture
+377,wild animal,omnivore,terrestrial animal,bird,animal found in Oceania,brightly colored bird,bird of paradise
+378,wild animal,omnivore,terrestrial animal,bird,animal found in Oceania,brightly colored bird,cockatoo
+379,wild animal,omnivore,terrestrial animal,bird,animal found in Oceania,grey brown white or black bird,cockatoo
+380,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,finch
+381,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,finch
+382,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,brightly colored bird,kingfisher
+383,wild animal,herbivore,terrestrial animal,bird,animal found in Oceania,brightly colored bird,lorikeet
+384,wild animal,herbivore,terrestrial animal,bird,animal found in Africa,brightly colored bird,lovebird
+385,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,macaw
+386,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,oriole
+387,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,parakeet
+388,domesticated animal,omnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,parakeet
+389,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,parrot
+390,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,quetzal
+391,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,robin
+392,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,toucan
+393,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,dove
+394,domesticated animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,dove
+395,wild animal,omnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,duck
+396,domesticated animal,omnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,duck
+397,wild animal,omnivore,semi-aquatic animal,bird,animal found worldwide,brightly colored bird,duck
+398,domesticated animal,omnivore,semi-aquatic animal,bird,animal found worldwide,brightly colored bird,duck
+399,wild animal,herbivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,goose
+400,domesticated animal,herbivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,goose
+401,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,grouse
+402,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,grouse
+403,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,grouse
+404,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,partridge
+405,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,partridge
+406,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,partridge
+407,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,pheasant
+408,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,pheasant
+409,domesticated animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,pigeon
+410,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,quail
+411,wild animal,omnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,snipe
+412,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,snipe
+413,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,turkey
+414,domesticated animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,turkey
+415,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,albatross
+416,wild animal,carnivore,semi-aquatic animal,bird,animal found in Antanimal found in the Arctica,grey brown white or black bird,albatross
+417,wild animal,carnivore,semi-aquatic animal,bird,animal found in the Americas,grey brown white or black bird,albatross
+418,wild animal,carnivore,semi-aquatic animal,bird,animal found in Africa,grey brown white or black bird,albatross
+419,wild animal,carnivore,semi-aquatic animal,bird,animal found in Oceania,grey brown white or black bird,albatross
+420,wild animal,carnivore,semi-aquatic animal,bird,animal found in the Americas,grey brown white or black bird,booby
+421,wild animal,carnivore,semi-aquatic animal,bird,animal found in the Americas,brightly colored bird,booby
+422,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,cormorant
+423,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,grebe
+424,wild animal,carnivore,aquatic animal,bird,animal found worldwide,grey brown white or black bird,grebe
+425,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,brightly colored bird,grebe
+426,wild animal,carnivore,aquatic animal,bird,animal found worldwide,brightly colored bird,grebe
+427,wild animal,omnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,moorhen
+428,wild animal,omnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,plover
+429,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,pelican
+430,wild animal,carnivore,semi-aquatic animal,bird,animal found in Eurasia,grey brown white or black bird,puffin
+431,wild animal,carnivore,semi-aquatic animal,bird,animal found in the Americas,grey brown white or black bird,puffin
+432,wild animal,carnivore,semi-aquatic animal,bird,animal found in Eurasia,brightly colored bird,puffin
+433,wild animal,carnivore,semi-aquatic animal,bird,animal found in the Americas,brightly colored bird,puffin
+434,wild animal,omnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,seagull
+435,wild animal,omnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,swan
+436,wild animal,carnivore,semi-aquatic animal,bird,animal found worldwide,grey brown white or black bird,tern
+437,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,blackbird
+438,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,bluebird
+439,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,bluejay
+440,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,cardinal
+441,wild animal,omnivore,terrestrial animal,bird,animal found in Africa,brightly colored bird,canary
+442,domesticated animal,omnivore,terrestrial animal,bird,animal found in Africa,brightly colored bird,canary
+443,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,crake
+444,wild animal,omnivore,terrestrial animal,bird,animal found in Africa,grey brown white or black bird,crake
+445,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,crake
+446,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,magpie
+447,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,mockingbird
+448,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,nightingale
+449,wild animal,omnivore,terrestrial animal,bird,animal found in the Americasbrightly colored bird,,oriole
+450,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,brightly colored bird,robin
+451,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,wren
+452,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,uguisu
+453,wild animal,carnivore,terrestrial animal,bird,animal found in Eurasia,brightly colored bird,bee eater
+454,wild animal,carnivore,terrestrial animal,bird,animal found in Africa,brightly colored bird,bee eater
+455,wild animal,carnivore,terrestrial animal,bird,animal found worldwide,brightly colored bird,bee eater
+456,domesticated animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,chicken
+457,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,crow
+458,wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,cuckoo
+459,wild animal,omnivore,terrestrial animal,bird,animal found in Africa,grey brown white or black bird,cuckoo
+460,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,cuckoo
+461,wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,hummingbird
+462,wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,raven
+463,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,anchovy
+464,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,barracuda
+465,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,barracuda
+466,wild animal,carnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,barracuda
+467,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,barracuda
+468,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,bass
+469,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,bass
+470,wild animal,carnivore,aquatic animal,fish,animal found worldwide,freshwater fish,bass
+471,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,catfish
+472,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,catfish
+473,wild animal,omnivore,aquatic animal,fish,animal found in Africa,freshwater fish,catfish
+474,wild animal,omnivore,aquatic animal,fish,animal found worldwide,freshwater fish,catfish
+475,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,cod
+476,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,cod
+477,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,cod
+478,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,eel
+479,wild animal,carnivore,aquatic animal,fish,animal found worldwide,freshwater fish,eel
+480,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,flounder
+481,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,flounder
+482,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,flounder
+483,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,grouper
+484,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,grouper
+485,wild animal,carnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,grouper
+486,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,grouper
+487,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,herring
+488,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,herring
+489,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,pike
+490,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,pike
+491,wild animal,carnivore,aquatic animal,fish,animal found worldwide,freshwater fish,pike
+492,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,salmon
+493,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,salmon
+494,wild animal,omnivore,aquatic animal,fish,animal found worldwide,saltwater fish,salmon
+495,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,salmon
+496,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,salmon
+497,wild animal,omnivore,aquatic animal,fish,animal found worldwide,freshwater fish,salmon
+498,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,sardine
+499,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,sardine
+500,wild animal,omnivore,aquatic animal,fish,animal found in Africa,saltwater fish,sardine
+501,wild animal,omnivore,aquatic animal,fish,animal found worldwide,saltwater fish,sardine
+502,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,shark
+503,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,swordfish
+504,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,swordfish
+505,wild animal,carnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,swordfish
+506,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,swordfish
+507,wild animal,omnivore,aquatic animal,fish,animal found in Africa,freshwater fish,tilapia
+508,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,tilapia
+509,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,tilapia
+510,wild animal,omnivore,aquatic animal,fish,animal found worldwide,freshwater fish,tilapia
+511,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,trout
+512,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,trout
+513,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,tuna
+514,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,angelfish
+515,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,barb
+516,wild animal,omnivore,aquatic animal,fish,animal found in Africa,freshwater fish,barb
+517,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,betta
+518,wild animal,omnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,clownfish
+519,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,goldfish
+520,domesticated animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,goldfish
+521,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,guppy
+522,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,koi
+523,domesticated animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,koi
+524,wild animal,omnivore,aquatic animal,fish,animal found in Eurasia,freshwater fish,minnow
+525,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,minnow
+526,wild animal,omnivore,aquatic animal,fish,animal found worldwide,freshwater fish,minnow
+527,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,molly
+528,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,piranha
+529,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,pufferfish
+530,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,pufferfish
+531,wild animal,carnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,pufferfish
+532,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,pufferfish
+533,wild animal,omnivore,aquatic animal,fish,animal found worldwide,saltwater fish,shark
+534,wild animal,omnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,tang(Dory)
+535,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,stingray
+536,wild animal,omnivore,aquatic animal,fish,animal found in the Americas,freshwater fish,tetra
+537,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,wrasse
+538,wild animal,carnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,wrasse
+539,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,wrasse
+540,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,wrasse
+541,wild animal,carnivore,aquatic animal,fish,animal found worldwide,saltwater fish,moray eel
+542,wild animal,carnivore,aquatic animal,fish,animal found in Eurasia,saltwater fish,stingray
+543,wild animal,carnivore,aquatic animal,fish,animal found in the Americas,saltwater fish,stingray
+544,wild animal,carnivore,aquatic animal,fish,animal found in Oceania,saltwater fish,stingray
+545,wild animal,carnivore,aquatic animal,fish,animal found in Africa,saltwater fish,stingray
+546,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,cow,animal found in Eurasia
+547,domesticated animal,herbivore,terrestrial animal,mammal,animal with spots,cow,animal found in Eurasia
+548,wild animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in Eurasia
+549,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in Eurasia
+550,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,ox,animal found in Eurasia
+551,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,sheep,animal found in Eurasia
+552,wild animal,omnivore,terrestrial animal,mammal,primate,human,animal found in Eurasia
+553,domesticated animal,omnivore,terrestrial animal,mammal,primate,human,animal found in Eurasia
+554,domesticated animal,omnivore,terrestrial animal,mammal,rodent,gerbil,animal found in Eurasia
+555,domesticated animal,omnivore,terrestrial animal,mammal,rodent,hamster,animal found in Eurasia
+556,domesticated animal,herbivore,terrestrial animal,mammal,rodent,guinea pig,animal found in Eurasia
+557,wild animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in Eurasia
+558,domesticated animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in Eurasia
+559,wild animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in Eurasia
+560,domesticated animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in Eurasia
+561,wild animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in Eurasia
+562,domesticated animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in Eurasia
+563,wild animal,omnivore,terrestrial animal,mammal,rodent,squirrel,animal found in Eurasia
+564,wild animal,carnivore,aquatic animal,mammal,,dolphin,animal found in Eurasia
+565,wild animal,herbivore,aquatic animal,mammal,,dugong,animal found in Eurasia
+566,wild animal,carnivore,aquatic animal,mammal,,orca,animal found in Eurasia
+567,wild animal,carnivore,semi-aquatic animal,mammal,,otter,animal found in Eurasia
+568,wild animal,carnivore,aquatic animal,mammal,,porpoise,animal found in Eurasia
+569,wild animal,carnivore,semi-aquatic animal,mammal,,sea lion,animal found in Eurasia
+570,wild animal,carnivore,semi-aquatic animal,mammal,,seal,animal found in Eurasia
+571,wild animal,carnivore,aquatic animal,mammal,,whale,animal found in Eurasia
+572,wild animal,insectivore,terrestrial animal,mammal,,bat,animal found in Eurasia
+573,domesticated animal,herbivore,terrestrial animal,mammal,,donkey,animal found in Eurasia
+574,wild animal,herbivore,terrestrial animal,mammal,,hare,animal found in Eurasia
+575,wild animal,herbivore,terrestrial animal,mammal,,horse,animal found in Eurasia
+576,domesticated animal,herbivore,terrestrial animal,mammal,,horse,animal found in Eurasia
+577,wild animal,herbivore,terrestrial animal,mammal,,mole,animal found in Eurasia
+578,domesticated animal,herbivore,terrestrial animal,mammal,,mule,animal found in Eurasia
+579,domesticated animal,omnivore,terrestrial animal,mammal,,pig,animal found in Eurasia
+580,wild animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in Eurasia
+581,domesticated animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in Eurasia
+582,domesticated animal,omnivore,terrestrial animal,mammal,canine,pet dog,animal found in Eurasia
+583,domesticated animal,carnivore,terrestrial animal,mammal,feline,house cat,animal found in Eurasia
+584,wild animal,carnivore,terrestrial animal,mammal,feline,panther,animal found in Eurasia
+585,domesticated animal,carnivore,terrestrial animal,mammal,mustelid,ferret,animal found in Eurasia
+586,wild animal,carnivore,semi-aquatic animal,amphibian,,frog,animal found in Eurasia
+587,wild animal,carnivore,semi-aquatic animal,amphibian,,toad,animal found in Eurasia
+588,wild animal,carnivore,terrestrial animal,reptile,snake,viper,animal found in Eurasia
+589,wild animal,carnivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,crocodile,animal found in Eurasia
+590,wild animal,carnivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,dinosaur,animal found in Eurasia
+591,wild animal,herbivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,tortoise,animal found in Eurasia
+592,wild animal,herbivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,turtle,animal found in Eurasia
+593,wild animal,herbivore,aquatic animal,reptile,a reptile apart from a lizard or snake,sea turtle,animal found in Eurasia
+594,wild animal,carnivore,terrestrial animal,reptile,lizard,gecko,animal found in Eurasia
+595,wild animal,carnivore,terrestrial animal,reptile,lizard,legless lizard,animal found in Eurasia
+596,wild animal,carnivore,terrestrial animal,reptile,lizard,monitor,animal found in Eurasia
+597,wild animal,carnivore,terrestrial animal,reptile,lizard,newt,animal found in Eurasia
+598,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crane,animal found in Eurasia
+599,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,flamingo,animal found in Eurasia
+600,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,ibis,animal found in Eurasia
+601,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,ibis,animal found in Eurasia
+602,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,spoonbill,animal found in Eurasia
+603,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,penguin,animal found in Eurasia
+604,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,stork,animal found in Eurasia
+605,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,buzzard,animal found in Eurasia
+606,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,eagle,animal found in Eurasia
+607,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,falcon,animal found in Eurasia
+608,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,hawk,animal found in Eurasia
+609,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,kite,animal found in Eurasia
+610,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,osprey,animal found in Eurasia
+611,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,owl,animal found in Eurasia
+612,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,vulture,animal found in Eurasia
+613,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,finch,animal found in Eurasia
+614,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,finch,animal found in Eurasia
+615,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,kingfisher,animal found in Eurasia
+616,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,oriole,animal found in Eurasia
+617,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in Eurasia
+618,domesticated animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in Eurasia
+619,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parrot,animal found in Eurasia
+620,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in Eurasia
+621,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in Eurasia
+622,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in Eurasia
+623,domesticated animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in Eurasia
+624,wild animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in Eurasia
+625,domesticated animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in Eurasia
+626,wild animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in Eurasia
+627,domesticated animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in Eurasia
+628,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,grouse,animal found in Eurasia
+629,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,partridge,animal found in Eurasia
+630,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,pigeon,animal found in Eurasia
+631,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,quail,animal found in Eurasia
+632,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,snipe,animal found in Eurasia
+633,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,snipe,animal found in Eurasia
+634,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,albatross,animal found in Eurasia
+635,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,cormorant,animal found in Eurasia
+636,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,grebe,animal found in Eurasia
+637,wild animal,carnivore,aquatic animal,bird,grey brown white or black bird,grebe,animal found in Eurasia
+638,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,grebe,animal found in Eurasia
+639,wild animal,carnivore,aquatic animal,bird,brightly colored bird,grebe,animal found in Eurasia
+640,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,moorhen,animal found in Eurasia
+641,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,plover,animal found in Eurasia
+642,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,pelican,animal found in Eurasia
+643,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,seagull,animal found in Eurasia
+644,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,swan,animal found in Eurasia
+645,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,tern,animal found in Eurasia
+646,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,blackbird,animal found in Eurasia
+647,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crake,animal found in Eurasia
+648,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,magpie,animal found in Eurasia
+649,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,wren,animal found in Eurasia
+650,wild animal,carnivore,terrestrial animal,bird,brightly colored bird,bee eater,animal found in Eurasia
+651,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,chicken,animal found in Eurasia
+652,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crow,animal found in Eurasia
+653,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,cuckoo,animal found in Eurasia
+654,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,raven,animal found in Eurasia
+655,wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy,animal found in Eurasia
+656,wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda,animal found in Eurasia
+657,wild animal,carnivore,aquatic animal,fish,freshwater fish,bass,animal found in Eurasia
+658,wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish,animal found in Eurasia
+659,wild animal,carnivore,aquatic animal,fish,saltwater fish,cod,animal found in Eurasia
+660,wild animal,carnivore,aquatic animal,fish,saltwater fish,eel,animal found in Eurasia
+661,wild animal,carnivore,aquatic animal,fish,freshwater fish,eel,animal found in Eurasia
+662,wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder,animal found in Eurasia
+663,wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper,animal found in Eurasia
+664,wild animal,carnivore,aquatic animal,fish,freshwater fish,pike,animal found in Eurasia
+665,wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon,animal found in Eurasia
+666,wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon,animal found in Eurasia
+667,wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine,animal found in Eurasia
+668,wild animal,carnivore,aquatic animal,fish,saltwater fish,shark,animal found in Eurasia
+669,wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish,animal found in Eurasia
+670,wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia,animal found in Eurasia
+671,wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna,animal found in Eurasia
+672,wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow,animal found in Eurasia
+673,wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish,animal found in Eurasia
+674,wild animal,omnivore,aquatic animal,fish,saltwater fish,shark,animal found in Eurasia
+675,wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray,animal found in Eurasia
+676,wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse,animal found in Eurasia
+677,wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel,animal found in Eurasia
+678,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,cow,animal found in Africa
+679,domesticated animal,herbivore,terrestrial animal,mammal,animal with spots,cow,animal found in Africa
+680,wild animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in Africa
+681,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in Africa
+682,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,ox,animal found in Africa
+683,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,sheep,animal found in Africa
+684,wild animal,omnivore,terrestrial animal,mammal,primate,human,animal found in Africa
+685,domesticated animal,omnivore,terrestrial animal,mammal,primate,human,animal found in Africa
+686,domesticated animal,omnivore,terrestrial animal,mammal,rodent,gerbil,animal found in Africa
+687,domesticated animal,omnivore,terrestrial animal,mammal,rodent,hamster,animal found in Africa
+688,domesticated animal,herbivore,terrestrial animal,mammal,rodent,guinea pig,animal found in Africa
+689,wild animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in Africa
+690,domesticated animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in Africa
+691,wild animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in Africa
+692,domesticated animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in Africa
+693,wild animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in Africa
+694,domesticated animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in Africa
+695,wild animal,omnivore,terrestrial animal,mammal,rodent,squirrel,animal found in Africa
+696,wild animal,carnivore,aquatic animal,mammal,,dolphin,animal found in Africa
+697,wild animal,herbivore,aquatic animal,mammal,,dugong,animal found in Africa
+698,wild animal,carnivore,aquatic animal,mammal,,orca,animal found in Africa
+699,wild animal,carnivore,semi-aquatic animal,mammal,,otter,animal found in Africa
+700,wild animal,carnivore,aquatic animal,mammal,,porpoise,animal found in Africa
+701,wild animal,carnivore,semi-aquatic animal,mammal,,sea lion,animal found in Africa
+702,wild animal,carnivore,semi-aquatic animal,mammal,,seal,animal found in Africa
+703,wild animal,carnivore,aquatic animal,mammal,,whale,animal found in Africa
+704,wild animal,insectivore,terrestrial animal,mammal,,bat,animal found in Africa
+705,domesticated animal,herbivore,terrestrial animal,mammal,,donkey,animal found in Africa
+706,wild animal,herbivore,terrestrial animal,mammal,,hare,animal found in Africa
+707,wild animal,herbivore,terrestrial animal,mammal,,horse,animal found in Africa
+708,domesticated animal,herbivore,terrestrial animal,mammal,,horse,animal found in Africa
+709,wild animal,herbivore,terrestrial animal,mammal,,mole,animal found in Africa
+710,domesticated animal,herbivore,terrestrial animal,mammal,,mule,animal found in Africa
+711,domesticated animal,omnivore,terrestrial animal,mammal,,pig,animal found in Africa
+712,wild animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in Africa
+713,domesticated animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in Africa
+714,domesticated animal,omnivore,terrestrial animal,mammal,canine,pet dog,animal found in Africa
+715,domesticated animal,carnivore,terrestrial animal,mammal,feline,house cat,animal found in Africa
+716,wild animal,carnivore,terrestrial animal,mammal,feline,panther,animal found in Africa
+717,domesticated animal,carnivore,terrestrial animal,mammal,mustelid,ferret,animal found in Africa
+718,wild animal,carnivore,semi-aquatic animal,amphibian,,frog,animal found in Africa
+719,wild animal,carnivore,semi-aquatic animal,amphibian,,toad,animal found in Africa
+720,wild animal,carnivore,terrestrial animal,reptile,snake,viper,animal found in Africa
+721,wild animal,carnivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,crocodile,animal found in Africa
+722,wild animal,carnivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,dinosaur,animal found in Africa
+723,wild animal,herbivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,tortoise,animal found in Africa
+724,wild animal,herbivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,turtle,animal found in Africa
+725,wild animal,herbivore,aquatic animal,reptile,a reptile apart from a lizard or snake,sea turtle,animal found in Africa
+726,wild animal,carnivore,terrestrial animal,reptile,lizard,gecko,animal found in Africa
+727,wild animal,carnivore,terrestrial animal,reptile,lizard,legless lizard,animal found in Africa
+728,wild animal,carnivore,terrestrial animal,reptile,lizard,monitor,animal found in Africa
+729,wild animal,carnivore,terrestrial animal,reptile,lizard,newt,animal found in Africa
+730,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crane,animal found in Africa
+731,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,flamingo,animal found in Africa
+732,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,ibis,animal found in Africa
+733,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,ibis,animal found in Africa
+734,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,spoonbill,animal found in Africa
+735,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,penguin,animal found in Africa
+736,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,stork,animal found in Africa
+737,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,buzzard,animal found in Africa
+738,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,eagle,animal found in Africa
+739,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,falcon,animal found in Africa
+740,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,hawk,animal found in Africa
+741,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,kite,animal found in Africa
+742,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,osprey,animal found in Africa
+743,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,owl,animal found in Africa
+744,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,vulture,animal found in Africa
+745,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,finch,animal found in Africa
+746,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,finch,animal found in Africa
+747,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,kingfisher,animal found in Africa
+748,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,oriole,animal found in Africa
+749,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in Africa
+750,domesticated animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in Africa
+751,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parrot,animal found in Africa
+752,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in Africa
+753,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in Africa
+754,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in Africa
+755,domesticated animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in Africa
+756,wild animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in Africa
+757,domesticated animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in Africa
+758,wild animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in Africa
+759,domesticated animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in Africa
+760,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,grouse,animal found in Africa
+761,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,partridge,animal found in Africa
+762,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,pigeon,animal found in Africa
+763,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,quail,animal found in Africa
+764,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,snipe,animal found in Africa
+765,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,snipe,animal found in Africa
+766,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,albatross,animal found in Africa
+767,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,cormorant,animal found in Africa
+768,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,grebe,animal found in Africa
+769,wild animal,carnivore,aquatic animal,bird,grey brown white or black bird,grebe,animal found in Africa
+770,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,grebe,animal found in Africa
+771,wild animal,carnivore,aquatic animal,bird,brightly colored bird,grebe,animal found in Africa
+772,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,moorhen,animal found in Africa
+773,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,plover,animal found in Africa
+774,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,pelican,animal found in Africa
+775,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,seagull,animal found in Africa
+776,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,swan,animal found in Africa
+777,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,tern,animal found in Africa
+778,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,blackbird,animal found in Africa
+779,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crake,animal found in Africa
+780,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,magpie,animal found in Africa
+781,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,wren,animal found in Africa
+782,wild animal,carnivore,terrestrial animal,bird,brightly colored bird,bee eater,animal found in Africa
+783,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,chicken,animal found in Africa
+784,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crow,animal found in Africa
+785,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,cuckoo,animal found in Africa
+786,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,raven,animal found in Africa
+787,wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy,animal found in Africa
+788,wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda,animal found in Africa
+789,wild animal,carnivore,aquatic animal,fish,freshwater fish,bass,animal found in Africa
+790,wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish,animal found in Africa
+791,wild animal,carnivore,aquatic animal,fish,saltwater fish,cod,animal found in Africa
+792,wild animal,carnivore,aquatic animal,fish,saltwater fish,eel,animal found in Africa
+793,wild animal,carnivore,aquatic animal,fish,freshwater fish,eel,animal found in Africa
+794,wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder,animal found in Africa
+795,wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper,animal found in Africa
+796,wild animal,carnivore,aquatic animal,fish,freshwater fish,pike,animal found in Africa
+797,wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon,animal found in Africa
+798,wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon,animal found in Africa
+799,wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine,animal found in Africa
+800,wild animal,carnivore,aquatic animal,fish,saltwater fish,shark,animal found in Africa
+801,wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish,animal found in Africa
+802,wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia,animal found in Africa
+803,wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna,animal found in Africa
+804,wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow,animal found in Africa
+805,wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish,animal found in Africa
+806,wild animal,omnivore,aquatic animal,fish,saltwater fish,shark,animal found in Africa
+807,wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray,animal found in Africa
+808,wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse,animal found in Africa
+809,wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel,animal found in Africa
+810,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,cow,animal found in Oceania
+811,domesticated animal,herbivore,terrestrial animal,mammal,animal with spots,cow,animal found in Oceania
+812,wild animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in Oceania
+813,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in Oceania
+814,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,ox,animal found in Oceania
+815,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,sheep,animal found in Oceania
+816,wild animal,omnivore,terrestrial animal,mammal,primate,human,animal found in Oceania
+817,domesticated animal,omnivore,terrestrial animal,mammal,primate,human,animal found in Oceania
+818,domesticated animal,omnivore,terrestrial animal,mammal,rodent,gerbil,animal found in Oceania
+819,domesticated animal,omnivore,terrestrial animal,mammal,rodent,hamster,animal found in Oceania
+820,domesticated animal,herbivore,terrestrial animal,mammal,rodent,guinea pig,animal found in Oceania
+821,wild animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in Oceania
+822,domesticated animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in Oceania
+823,wild animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in Oceania
+824,domesticated animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in Oceania
+825,wild animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in Oceania
+826,domesticated animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in Oceania
+827,wild animal,omnivore,terrestrial animal,mammal,rodent,squirrel,animal found in Oceania
+828,wild animal,carnivore,aquatic animal,mammal,,dolphin,animal found in Oceania
+829,wild animal,herbivore,aquatic animal,mammal,,dugong,animal found in Oceania
+830,wild animal,carnivore,aquatic animal,mammal,,orca,animal found in Oceania
+831,wild animal,carnivore,semi-aquatic animal,mammal,,otter,animal found in Oceania
+832,wild animal,carnivore,aquatic animal,mammal,,porpoise,animal found in Oceania
+833,wild animal,carnivore,semi-aquatic animal,mammal,,sea lion,animal found in Oceania
+834,wild animal,carnivore,semi-aquatic animal,mammal,,seal,animal found in Oceania
+835,wild animal,carnivore,aquatic animal,mammal,,whale,animal found in Oceania
+836,wild animal,insectivore,terrestrial animal,mammal,,bat,animal found in Oceania
+837,domesticated animal,herbivore,terrestrial animal,mammal,,donkey,animal found in Oceania
+838,wild animal,herbivore,terrestrial animal,mammal,,hare,animal found in Oceania
+839,wild animal,herbivore,terrestrial animal,mammal,,horse,animal found in Oceania
+840,domesticated animal,herbivore,terrestrial animal,mammal,,horse,animal found in Oceania
+841,wild animal,herbivore,terrestrial animal,mammal,,mole,animal found in Oceania
+842,domesticated animal,herbivore,terrestrial animal,mammal,,mule,animal found in Oceania
+843,domesticated animal,omnivore,terrestrial animal,mammal,,pig,animal found in Oceania
+844,wild animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in Oceania
+845,domesticated animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in Oceania
+846,domesticated animal,omnivore,terrestrial animal,mammal,canine,pet dog,animal found in Oceania
+847,domesticated animal,carnivore,terrestrial animal,mammal,feline,house cat,animal found in Oceania
+848,wild animal,carnivore,terrestrial animal,mammal,feline,panther,animal found in Oceania
+849,domesticated animal,carnivore,terrestrial animal,mammal,mustelid,ferret,animal found in Oceania
+850,wild animal,carnivore,semi-aquatic animal,amphibian,,frog,animal found in Oceania
+851,wild animal,carnivore,semi-aquatic animal,amphibian,,toad,animal found in Oceania
+852,wild animal,carnivore,terrestrial animal,reptile,snake,viper,animal found in Oceania
+853,wild animal,carnivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,crocodile,animal found in Oceania
+854,wild animal,carnivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,dinosaur,animal found in Oceania
+855,wild animal,herbivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,tortoise,animal found in Oceania
+856,wild animal,herbivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,turtle,animal found in Oceania
+857,wild animal,herbivore,aquatic animal,reptile,a reptile apart from a lizard or snake,sea turtle,animal found in Oceania
+858,wild animal,carnivore,terrestrial animal,reptile,lizard,gecko,animal found in Oceania
+859,wild animal,carnivore,terrestrial animal,reptile,lizard,legless lizard,animal found in Oceania
+860,wild animal,carnivore,terrestrial animal,reptile,lizard,monitor,animal found in Oceania
+861,wild animal,carnivore,terrestrial animal,reptile,lizard,newt,animal found in Oceania
+862,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crane,animal found in Oceania
+863,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,flamingo,animal found in Oceania
+864,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,ibis,animal found in Oceania
+865,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,ibis,animal found in Oceania
+866,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,spoonbill,animal found in Oceania
+867,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,penguin,animal found in Oceania
+868,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,stork,animal found in Oceania
+869,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,buzzard,animal found in Oceania
+870,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,eagle,animal found in Oceania
+871,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,falcon,animal found in Oceania
+872,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,hawk,animal found in Oceania
+873,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,kite,animal found in Oceania
+874,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,osprey,animal found in Oceania
+875,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,owl,animal found in Oceania
+876,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,vulture,animal found in Oceania
+877,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,finch,animal found in Oceania
+878,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,finch,animal found in Oceania
+879,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,kingfisher,animal found in Oceania
+880,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,oriole,animal found in Oceania
+881,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in Oceania
+882,domesticated animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in Oceania
+883,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parrot,animal found in Oceania
+884,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in Oceania
+885,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in Oceania
+886,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in Oceania
+887,domesticated animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in Oceania
+888,wild animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in Oceania
+889,domesticated animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in Oceania
+890,wild animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in Oceania
+891,domesticated animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in Oceania
+892,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,grouse,animal found in Oceania
+893,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,partridge,animal found in Oceania
+894,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,pigeon,animal found in Oceania
+895,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,quail,animal found in Oceania
+896,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,snipe,animal found in Oceania
+897,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,snipe,animal found in Oceania
+898,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,albatross,animal found in Oceania
+899,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,cormorant,animal found in Oceania
+900,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,grebe,animal found in Oceania
+901,wild animal,carnivore,aquatic animal,bird,grey brown white or black bird,grebe,animal found in Oceania
+902,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,grebe,animal found in Oceania
+903,wild animal,carnivore,aquatic animal,bird,brightly colored bird,grebe,animal found in Oceania
+904,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,moorhen,animal found in Oceania
+905,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,plover,animal found in Oceania
+906,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,pelican,animal found in Oceania
+907,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,seagull,animal found in Oceania
+908,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,swan,animal found in Oceania
+909,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,tern,animal found in Oceania
+910,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,blackbird,animal found in Oceania
+911,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crake,animal found in Oceania
+912,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,magpie,animal found in Oceania
+913,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,wren,animal found in Oceania
+914,wild animal,carnivore,terrestrial animal,bird,brightly colored bird,bee eater,animal found in Oceania
+915,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,chicken,animal found in Oceania
+916,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crow,animal found in Oceania
+917,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,cuckoo,animal found in Oceania
+918,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,raven,animal found in Oceania
+919,wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy,animal found in Oceania
+920,wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda,animal found in Oceania
+921,wild animal,carnivore,aquatic animal,fish,freshwater fish,bass,animal found in Oceania
+922,wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish,animal found in Oceania
+923,wild animal,carnivore,aquatic animal,fish,saltwater fish,cod,animal found in Oceania
+924,wild animal,carnivore,aquatic animal,fish,saltwater fish,eel,animal found in Oceania
+925,wild animal,carnivore,aquatic animal,fish,freshwater fish,eel,animal found in Oceania
+926,wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder,animal found in Oceania
+927,wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper,animal found in Oceania
+928,wild animal,carnivore,aquatic animal,fish,freshwater fish,pike,animal found in Oceania
+929,wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon,animal found in Oceania
+930,wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon,animal found in Oceania
+931,wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine,animal found in Oceania
+932,wild animal,carnivore,aquatic animal,fish,saltwater fish,shark,animal found in Oceania
+933,wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish,animal found in Oceania
+934,wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia,animal found in Oceania
+935,wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna,animal found in Oceania
+936,wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow,animal found in Oceania
+937,wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish,animal found in Oceania
+938,wild animal,omnivore,aquatic animal,fish,saltwater fish,shark,animal found in Oceania
+939,wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray,animal found in Oceania
+940,wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse,animal found in Oceania
+941,wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel,animal found in Oceania
+942,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,cow,animal found in the Americas
+943,domesticated animal,herbivore,terrestrial animal,mammal,animal with spots,cow,animal found in the Americas
+944,wild animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in the Americas
+945,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,goat,animal found in the Americas
+946,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,ox,animal found in the Americas
+947,domesticated animal,herbivore,terrestrial animal,mammal,animal with horns antlers or tusks,sheep,animal found in the Americas
+948,wild animal,omnivore,terrestrial animal,mammal,primate,human,animal found in the Americas
+949,domesticated animal,omnivore,terrestrial animal,mammal,primate,human,animal found in the Americas
+950,domesticated animal,omnivore,terrestrial animal,mammal,rodent,gerbil,animal found in the Americas
+951,domesticated animal,omnivore,terrestrial animal,mammal,rodent,hamster,animal found in the Americas
+952,domesticated animal,herbivore,terrestrial animal,mammal,rodent,guinea pig,animal found in the Americas
+953,wild animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in the Americas
+954,domesticated animal,omnivore,terrestrial animal,mammal,rodent,mouse,animal found in the Americas
+955,wild animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in the Americas
+956,domesticated animal,herbivore,terrestrial animal,mammal,,rabbit,animal found in the Americas
+957,wild animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in the Americas
+958,domesticated animal,omnivore,terrestrial animal,mammal,rodent,rat,animal found in the Americas
+959,wild animal,omnivore,terrestrial animal,mammal,rodent,squirrel,animal found in the Americas
+960,wild animal,carnivore,aquatic animal,mammal,,dolphin,animal found in the Americas
+961,wild animal,herbivore,aquatic animal,mammal,,dugong,animal found in the Americas
+962,wild animal,carnivore,aquatic animal,mammal,,orca,animal found in the Americas
+963,wild animal,carnivore,semi-aquatic animal,mammal,,otter,animal found in the Americas
+964,wild animal,carnivore,aquatic animal,mammal,,porpoise,animal found in the Americas
+965,wild animal,carnivore,semi-aquatic animal,mammal,,sea lion,animal found in the Americas
+966,wild animal,carnivore,semi-aquatic animal,mammal,,seal,animal found in the Americas
+967,wild animal,carnivore,aquatic animal,mammal,,whale,animal found in the Americas
+968,wild animal,insectivore,terrestrial animal,mammal,,bat,animal found in the Americas
+969,domesticated animal,herbivore,terrestrial animal,mammal,,donkey,animal found in the Americas
+970,wild animal,herbivore,terrestrial animal,mammal,,hare,animal found in the Americas
+971,wild animal,herbivore,terrestrial animal,mammal,,horse,animal found in the Americas
+972,domesticated animal,herbivore,terrestrial animal,mammal,,horse,animal found in the Americas
+973,wild animal,herbivore,terrestrial animal,mammal,,mole,animal found in the Americas
+974,domesticated animal,herbivore,terrestrial animal,mammal,,mule,animal found in the Americas
+975,domesticated animal,omnivore,terrestrial animal,mammal,,pig,animal found in the Americas
+976,wild animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in the Americas
+977,domesticated animal,omnivore,terrestrial animal,mammal,canine,fox,animal found in the Americas
+978,domesticated animal,omnivore,terrestrial animal,mammal,canine,pet dog,animal found in the Americas
+979,domesticated animal,carnivore,terrestrial animal,mammal,feline,house cat,animal found in the Americas
+980,wild animal,carnivore,terrestrial animal,mammal,feline,panther,animal found in the Americas
+981,domesticated animal,carnivore,terrestrial animal,mammal,mustelid,ferret,animal found in the Americas
+982,wild animal,carnivore,semi-aquatic animal,amphibian,,frog,animal found in the Americas
+983,wild animal,carnivore,semi-aquatic animal,amphibian,,toad,animal found in the Americas
+984,wild animal,carnivore,terrestrial animal,reptile,snake,viper,animal found in the Americas
+985,wild animal,carnivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,crocodile,animal found in the Americas
+986,wild animal,carnivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,dinosaur,animal found in the Americas
+987,wild animal,herbivore,terrestrial animal,reptile,a reptile apart from a lizard or snake,tortoise,animal found in the Americas
+988,wild animal,herbivore,semi-aquatic animal,reptile,a reptile apart from a lizard or snake,turtle,animal found in the Americas
+989,wild animal,herbivore,aquatic animal,reptile,a reptile apart from a lizard or snake,sea turtle,animal found in the Americas
+990,wild animal,carnivore,terrestrial animal,reptile,lizard,gecko,animal found in the Americas
+991,wild animal,carnivore,terrestrial animal,reptile,lizard,legless lizard,animal found in the Americas
+992,wild animal,carnivore,terrestrial animal,reptile,lizard,monitor,animal found in the Americas
+993,wild animal,carnivore,terrestrial animal,reptile,lizard,newt,animal found in the Americas
+994,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crane,animal found in the Americas
+995,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,flamingo,animal found in the Americas
+996,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,ibis,animal found in the Americas
+997,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,ibis,animal found in the Americas
+998,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,spoonbill,animal found in the Americas
+999,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,penguin,animal found in the Americas
+1000,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,stork,animal found in the Americas
+1001,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,buzzard,animal found in the Americas
+1002,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,eagle,animal found in the Americas
+1003,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,falcon,animal found in the Americas
+1004,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,hawk,animal found in the Americas
+1005,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,kite,animal found in the Americas
+1006,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,osprey,animal found in the Americas
+1007,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,owl,animal found in the Americas
+1008,wild animal,carnivore,terrestrial animal,bird,grey brown white or black bird,vulture,animal found in the Americas
+1009,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,finch,animal found in the Americas
+1010,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,finch,animal found in the Americas
+1011,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,kingfisher,animal found in the Americas
+1012,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,oriole,animal found in the Americas
+1013,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in the Americas
+1014,domesticated animal,omnivore,terrestrial animal,bird,brightly colored bird,parakeet,animal found in the Americas
+1015,wild animal,omnivore,terrestrial animal,bird,brightly colored bird,parrot,animal found in the Americas
+1016,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in the Americas
+1017,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,dove,animal found in the Americas
+1018,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in the Americas
+1019,domesticated animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,duck,animal found in the Americas
+1020,wild animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in the Americas
+1021,domesticated animal,omnivore,semi-aquatic animal,bird,brightly colored bird,duck,animal found in the Americas
+1022,wild animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in the Americas
+1023,domesticated animal,herbivore,semi-aquatic animal,bird,grey brown white or black bird,goose,animal found in the Americas
+1024,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,grouse,animal found in the Americas
+1025,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,partridge,animal found in the Americas
+1026,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,pigeon,animal found in the Americas
+1027,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,quail,animal found in the Americas
+1028,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,snipe,animal found in the Americas
+1029,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,snipe,animal found in the Americas
+1030,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,albatross,animal found in the Americas
+1031,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,cormorant,animal found in the Americas
+1032,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,grebe,animal found in the Americas
+1033,wild animal,carnivore,aquatic animal,bird,grey brown white or black bird,grebe,animal found in the Americas
+1034,wild animal,carnivore,semi-aquatic animal,bird,brightly colored bird,grebe,animal found in the Americas
+1035,wild animal,carnivore,aquatic animal,bird,brightly colored bird,grebe,animal found in the Americas
+1036,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,moorhen,animal found in the Americas
+1037,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,plover,animal found in the Americas
+1038,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,pelican,animal found in the Americas
+1039,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,seagull,animal found in the Americas
+1040,wild animal,omnivore,semi-aquatic animal,bird,grey brown white or black bird,swan,animal found in the Americas
+1041,wild animal,carnivore,semi-aquatic animal,bird,grey brown white or black bird,tern,animal found in the Americas
+1042,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,blackbird,animal found in the Americas
+1043,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crake,animal found in the Americas
+1044,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,magpie,animal found in the Americas
+1045,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,wren,animal found in the Americas
+1046,wild animal,carnivore,terrestrial animal,bird,brightly colored bird,bee eater,animal found in the Americas
+1047,domesticated animal,omnivore,terrestrial animal,bird,grey brown white or black bird,chicken,animal found in the Americas
+1048,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,crow,animal found in the Americas
+1049,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,cuckoo,animal found in the Americas
+1050,wild animal,omnivore,terrestrial animal,bird,grey brown white or black bird,raven,animal found in the Americas
+1051,wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy,animal found in the Americas
+1052,wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda,animal found in the Americas
+1053,wild animal,carnivore,aquatic animal,fish,freshwater fish,bass,animal found in the Americas
+1054,wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish,animal found in the Americas
+1055,wild animal,carnivore,aquatic animal,fish,saltwater fish,cod,animal found in the Americas
+1056,wild animal,carnivore,aquatic animal,fish,saltwater fish,eel,animal found in the Americas
+1057,wild animal,carnivore,aquatic animal,fish,freshwater fish,eel,animal found in the Americas
+1058,wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder,animal found in the Americas
+1059,wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper,animal found in the Americas
+1060,wild animal,carnivore,aquatic animal,fish,freshwater fish,pike,animal found in the Americas
+1061,wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon,animal found in the Americas
+1062,wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon,animal found in the Americas
+1063,wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine,animal found in the Americas
+1064,wild animal,carnivore,aquatic animal,fish,saltwater fish,shark,animal found in the Americas
+1065,wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish,animal found in the Americas
+1066,wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia,animal found in the Americas
+1067,wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna,animal found in the Americas
+1068,wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow,animal found in the Americas
+1069,wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish,animal found in the Americas
+1070,wild animal,omnivore,aquatic animal,fish,saltwater fish,shark,animal found in the Americas
+1071,wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray,animal found in the Americas
+1072,wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse,animal found in the Americas
+1073,wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel,animal found in the Americas

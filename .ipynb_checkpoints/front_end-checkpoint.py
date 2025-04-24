@@ -38,6 +38,13 @@ Need to fix it so the next question only displays on click of yes or no
 To do that need other functions which respond to yes or no click, 
 do different responses for each use case
 '''
+def no(filtered_animals):
+    filtered_animals = filtered_animals.loc[filtered_animals[column]!=animal]
+    return
+    
+def yes(filtered_animals):
+    
+    
 def loop_questions(column,filtered_animals):
     #print("Size of dataset: ",len(filtered_animals))
     list = filtered_animals[column].sort_values().unique().tolist()

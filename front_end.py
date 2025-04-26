@@ -33,17 +33,24 @@ st.header("Think of an animal...")
 if st.button("🔁 Restart Game"):
     reset_game()
 '''
-Right now this displays a list of 20 questions.
-Need to fix it so the next question only displays on click of yes or no
-To do that need other functions which respond to yes or no click, 
-do different responses for each use case
+Right now this displays a list of 20 questions and two buttons.
+Since two buttons should be displayed for each question but are not having unique keys,
+there is an error.
+Instead, should try dynamic form with st.session_stage.stage
+Columns in df are number of stages, rows in df after filtering are number of stages #2
+Can also try to add loading bar later to see how close the game is to getting it
 '''
-def no(filtered_animals):
+def no(column,filtered_animals,animal):
     filtered_animals = filtered_animals.loc[filtered_animals[column]!=animal]
     return
     
-def yes(filtered_animals):
-    
+def yes(column,filtered_animals,animal):
+        if (st.session_state.question_counter<=20) & (column=='species'):
+            st.text(f"Amazing. So it's a {animal}. I win!")
+            return 
+        else:
+            filtered_animals = filtered_animals.loc[(filtered_animals[column]==animal)|(filtered_animals[column].isna())]
+            return
     
 def loop_questions(column,filtered_animals):
     #print("Size of dataset: ",len(filtered_animals))
@@ -53,20 +60,20 @@ def loop_questions(column,filtered_animals):
         st.text(f"Question {st.session_state.question_counter}: ")
         if pd.notna(animal):
             a_an = make_an(animal)
-            st.text(f"Is it {a_an} {animal}?")
-            response_yes = st.button('Yes')
-            response_no = st.button('No')
+            st.write(f"Is it {a_an} {animal}?")
+            response_yes = st.button('Yes',on_click=yes(column,filtered_animals,animal))
+            response_no = st.button('No',on_click=no(column,filtered_animals,animal))
             st.session_state.question_counter+=1
-            if response == "no":
-                filtered_animals = filtered_animals.loc[filtered_animals[column]!=animal]
-            if (st.session_state.question_counter<=20) & (column=='species') & (response=="yes"):
-                st.text(f"Amazing. So it's a {animal}. I win!")
-                return filtered_animals
+            #if response == "no":
+                #filtered_animals = filtered_animals.loc[filtered_animals[column]!=animal]
+            #if (st.session_state.question_counter<=20) & (column=='species') & (response=="yes"):
+                #st.text(f"Amazing. So it's a {animal}. I win!")
+                #return filtered_animals
             if (len(filtered_animals[column].unique())==1):
                 return filtered_animals
-            if response == "yes":
-                filtered_animals = filtered_animals.loc[(filtered_animals[column]==animal)|(filtered_animals[column].isna())]
-                break
+            #if response == "yes":
+                #filtered_animals = filtered_animals.loc[(filtered_animals[column]==animal)|(filtered_animals[column].isna())]
+                #break
             if (st.session_state.question_counter>20):
                 st.text("That's 20 questions! You win!")
                 return filtered_animals

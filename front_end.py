@@ -2,91 +2,111 @@ import streamlit as st
 import pandas as pd
 import re
 
-@st.cache_data
-def load_data():
-    return pd.read_csv("animals_fixed.csv")
+# Sample animal_df. Replace with your actual DataFrame.
+animal_df = pd.read_csv("animals_fixed.csv")
 
-animal_df = load_data()
-columns = ['domesticated', 'diet', 'habitat', 'Kingdom', 'region', 'subtype', 'species']
+# Helper
+def make_an(next_word):
+    vowels = re.compile("^[aeiouAEIOU]")
+    return 'an' if vowels.match(next_word) else 'a'
 
 # Initialize session state
-if 'filtered_animals' not in st.session_state:
-    st.session_state.filtered_animals = animal_df.copy()
-if 'column_index' not in st.session_state:
-    st.session_state.column_index = 0
 if 'question_counter' not in st.session_state:
     st.session_state.question_counter = 1
-
-# Restart game
-def reset_game():
+if 'filtered_animals' not in st.session_state:
     st.session_state.filtered_animals = animal_df.copy()
-    st.session_state.question_counter = 1
-
-# Determine "a" or "an"
-def make_an(word):
-    return 'an' if re.match("^[aeiouAEIOU]", str(word)) else 'a'
-
-# UI
-st.title("🦁 20 Questions: Animal Edition")
-st.header("Think of an animal...")
-
-if st.button("🔁 Restart Game"):
-    reset_game()
-'''
-Right now this displays a list of 20 questions and two buttons.
-Since two buttons should be displayed for each question but are not having unique keys,
-there is an error.
-Instead, should try dynamic form with st.session_stage.stage
-Columns in df are number of stages, rows in df after filtering are number of stages #2
-Can also try to add loading bar later to see how close the game is to getting it
-'''
-def no(column,filtered_animals,animal):
-    filtered_animals = filtered_animals.loc[filtered_animals[column]!=animal]
-    return
-    
-def yes(column,filtered_animals,animal):
-        if (st.session_state.question_counter<=20) & (column=='species'):
-            st.text(f"Amazing. So it's a {animal}. I win!")
-            return 
-        else:
-            filtered_animals = filtered_animals.loc[(filtered_animals[column]==animal)|(filtered_animals[column].isna())]
-            return
-    
-def loop_questions(column,filtered_animals):
-    #print("Size of dataset: ",len(filtered_animals))
-    list = filtered_animals[column].sort_values().unique().tolist()
-
-    for animal in list:
-        st.text(f"Question {st.session_state.question_counter}: ")
-        if pd.notna(animal):
-            a_an = make_an(animal)
-            st.write(f"Is it {a_an} {animal}?")
-            response_yes = st.button('Yes',on_click=yes(column,filtered_animals,animal))
-            response_no = st.button('No',on_click=no(column,filtered_animals,animal))
-            st.session_state.question_counter+=1
-            #if response == "no":
-                #filtered_animals = filtered_animals.loc[filtered_animals[column]!=animal]
-            #if (st.session_state.question_counter<=20) & (column=='species') & (response=="yes"):
-                #st.text(f"Amazing. So it's a {animal}. I win!")
-                #return filtered_animals
-            if (len(filtered_animals[column].unique())==1):
-                return filtered_animals
-            #if response == "yes":
-                #filtered_animals = filtered_animals.loc[(filtered_animals[column]==animal)|(filtered_animals[column].isna())]
-                #break
-            if (st.session_state.question_counter>20):
-                st.text("That's 20 questions! You win!")
-                return filtered_animals
-            if (len(filtered_animals)==0):
-                st.text("I'm out of ideas. You win!")
-                return filtered_animals
-        
-    return filtered_animals
+if 'current_column_index' not in st.session_state:
+    st.session_state.current_column_index = 0
+if 'current_animal_index' not in st.session_state:
+    st.session_state.current_animal_index = 0
+if 'game_over' not in st.session_state:
+    st.session_state.game_over = False
 
 columns = ['domesticated','diet','habitat','Kingdom','region','subtype','species']
 
-for column in range(len(columns)):
-    st.session_state.filtered_animals = loop_questions(columns[column],st.session_state.filtered_animals)
-    print("Size of dataset: ",len(st.session_state.filtered_animals))
+def ask_question():
+    col_idx = st.session_state.current_column_index
+    if col_idx >= len(columns):
+        st.session_state.game_over = True
+        return
 
-#filtered_animals=animal_df
+    column = columns[col_idx]
+    animals = st.session_state.filtered_animals[column].dropna().sort_values().unique().tolist()
+
+    # End if game is over or no more animals
+    if not animals or st.session_state.game_over:
+        return
+
+        # Just before you display the question
+    col = columns[st.session_state.current_column_index]
+    animals = st.session_state.filtered_animals[col].dropna().sort_values().unique().tolist()
+
+
+    # Move to next column if current_animal_index out of range
+    if st.session_state.current_animal_index >= len(animals):
+        st.session_state.current_animal_index = 0
+        st.session_state.current_column_index += 1
+        st.experimental_rerun()  # Force rerun to update question
+        return
+
+        # Freeze question target values for this interaction
+    animal = animals[st.session_state.current_animal_index]
+    col_name = col  # freeze the column name
+
+    animal = animals[st.session_state.current_animal_index]
+    article = make_an(animal)
+
+    st.write(f"Question {st.session_state.question_counter}: Is it {article} {animal}?")
+
+    col = column
+
+    st.write(f"Current column: {column}")
+    st.write(f"Remaining options: {animals}")
+    st.write(f"Current animal index: {st.session_state.current_animal_index}")
+
+    col1, col2 = st.columns(2)
+    with col1:
+        if st.button("Yes", key=f"yes_{col}_{animal}_{st.session_state.question_counter}"):
+            st.session_state.question_counter += 1
+            if (col == 'species') and (st.session_state.question_counter <= 20):
+                st.success(f"Amazing. So it's a {animal}. I win!")
+                st.session_state.game_over = True
+                return
+            st.session_state.filtered_animals = st.session_state.filtered_animals[
+                (st.session_state.filtered_animals[col] == animal) |
+                (st.session_state.filtered_animals[col].isna())
+            ]
+            st.session_state.current_animal_index = 0
+            st.session_state.current_column_index += 1
+            st.experimental_rerun()
+    with col2:
+        if st.button("No", key=f"no_{col}_{animal}_{st.session_state.question_counter}"):
+            st.session_state.question_counter += 1
+            st.session_state.filtered_animals = st.session_state.filtered_animals[
+                st.session_state.filtered_animals[col] != animal
+            ]
+            st.session_state.current_animal_index += 1
+            st.experimental_rerun()
+
+    # Game end checks
+    if len(st.session_state.filtered_animals) == 0:
+        st.error("I'm out of ideas. You win!")
+        st.session_state.game_over = True
+    elif st.session_state.question_counter > 20:
+        st.error("That's 20 questions! You win!")
+        st.session_state.game_over = True
+
+# Run the game
+if st.session_state.current_column_index < len(columns) and not st.session_state.game_over:
+    ask_question()
+else:
+    st.write("Game over or no more questions.")
+
+# Reset button
+if st.button("Restart Game"):
+    st.session_state.question_counter = 1
+    st.session_state.filtered_animals = animal_df.copy()
+    st.session_state.current_column_index = 0
+    st.session_state.current_animal_index = 0
+    st.session_state.game_over = False
+    st.experimental_rerun()

@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import re
 
+st.title("🐾 Animal Guessing Game")
+st.markdown("### Think of an animal, and I'll try to guess it in 20 questions or less.")
+st.markdown("---")
+
 # Sample animal_df. Replace with your actual DataFrame.
 animal_df = pd.read_csv("animals_fixed.csv")
 
@@ -37,11 +41,6 @@ def ask_question():
     if not animals or st.session_state.game_over:
         return
 
-        # Just before you display the question
-    col = columns[st.session_state.current_column_index]
-    animals = st.session_state.filtered_animals[col].dropna().sort_values().unique().tolist()
-
-
     # Move to next column if current_animal_index out of range
     if st.session_state.current_animal_index >= len(animals):
         st.session_state.current_animal_index = 0
@@ -51,7 +50,7 @@ def ask_question():
 
         # Freeze question target values for this interaction
     animal = animals[st.session_state.current_animal_index]
-    col_name = col  # freeze the column name
+    col_name = column  # freeze the column name
 
     animal = animals[st.session_state.current_animal_index]
     article = make_an(animal)
@@ -63,28 +62,27 @@ def ask_question():
     st.write(f"Current column: {column}")
     st.write(f"Remaining options: {animals}")
     st.write(f"Current animal index: {st.session_state.current_animal_index}")
+    st.write(f"Current size of dataset: {len(st.session_state.filtered_animals)}")
 
     col1, col2 = st.columns(2)
     with col1:
-        if st.button("Yes", key=f"yes_{col}_{animal}_{st.session_state.question_counter}"):
+        if st.button("Yes", key=f"yes_{column}_{animal}_{st.session_state.question_counter}"):
             st.session_state.question_counter += 1
-            if (col == 'species') and (st.session_state.question_counter <= 20):
-                st.success(f"Amazing. So it's a {animal}. I win!")
+            # Filter only when the user says YES
+            if column == 'species':
+                st.success(f"Great, so it's a {animal}! I win!")
                 st.session_state.game_over = True
-                return
-            st.session_state.filtered_animals = st.session_state.filtered_animals[
-                (st.session_state.filtered_animals[col] == animal) |
-                (st.session_state.filtered_animals[col].isna())
-            ]
-            st.session_state.current_animal_index = 0
-            st.session_state.current_column_index += 1
-            st.experimental_rerun()
+            else:
+                st.session_state.filtered_animals = st.session_state.filtered_animals[
+                    (st.session_state.filtered_animals[column] == animal) |
+                    (st.session_state.filtered_animals[column].isna())
+                ]
+                st.session_state.current_animal_index = 0
+                st.session_state.current_column_index += 1
+                st.experimental_rerun()
     with col2:
-        if st.button("No", key=f"no_{col}_{animal}_{st.session_state.question_counter}"):
+        if st.button("No", key=f"no_{column}_{animal}_{st.session_state.question_counter}"):
             st.session_state.question_counter += 1
-            st.session_state.filtered_animals = st.session_state.filtered_animals[
-                st.session_state.filtered_animals[col] != animal
-            ]
             st.session_state.current_animal_index += 1
             st.experimental_rerun()
 

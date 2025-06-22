@@ -8,7 +8,7 @@ wild animal,insectivore,terrestrial animal,mammal,animal found in Oceania,marsup
 wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,marsupial,platypus
 wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,marsupial,quokka
 wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,marsupial,quoll
-wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,quoll
+wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,zzz,quoll
 wild animal,omnivore,terrestrial animal,mammal,animal found in Oceania,marsupial,sugar glider
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,marsupial,sugar glider
 wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,marsupial,tasmanian devil
@@ -24,30 +24,30 @@ domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Amer
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,caribou
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,caribou
 domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,cow
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,cow
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,cow
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,cow
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,cow
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,deer
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,deer
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,deer
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,deer
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,deer
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,deer
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,deer
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,deer
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,deer
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,elephant
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,elephant
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,elk
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,elk
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,gazelle
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,gazelle
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,gazelle
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,gazelle
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,giraffe
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,gazelle
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,gazelle
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,giraffe
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,giraffe
 wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,goat
@@ -64,13 +64,13 @@ wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal w
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,ibex
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,impala
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,kudu
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,kudu
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,kudu
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,markhor
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,moose
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,moose
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,musk ox
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,musk ox
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,okapi
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,okapi
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,okapi
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,oryx
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,oryx
@@ -83,7 +83,7 @@ wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,ani
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,reindeer
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,rhino
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,rhino
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,saola
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,saola
 domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,animal with horns antlers or tusks,sheep
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,sheep
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,sheep
@@ -131,62 +131,62 @@ wild animal,herbivore,semi-aquatic animal,mammal,animal found in Eurasia,rodent,
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,chinchilla
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,chinchilla
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,rodent,chipmunk
-wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,chipmunk
-wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,coati
-wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,coati
-wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,fossa
+wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,chipmunk
+wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,coati
+wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,coati
+wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,zzz,fossa
 domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,gerbil
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,rodent,gerbil
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,rodent,gerbil
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,gopher
 domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,hamster
 domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,rodent,guinea pig
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,hare
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,hare
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,hare
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,lemming
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,rodent,lemming
-wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,meerkat
-wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,meerkat
-wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,meerkat
-wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,meerkat
+wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,zzz,meerkat
+wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,zzz,meerkat
+wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,zzz,meerkat
+wild animal,insectivore,terrestrial animal,mammal,animal found in Africa,zzz,meerkat
 wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,mouse
 domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,mouse
-wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,mole
-wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,mole
+wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,mole
+wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,zzz,mole
 wild animal,insectivore,terrestrial animal,mammal,animal found in Eurasia,brown animal,mole
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,marsupial,opossum
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,prairie dog
-wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,rabbit
-domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,rabbit
-wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,racoon
-wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,racoon
-wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,racoon
-wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,racoon
+wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,rabbit
+domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,rabbit
+wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,racoon
+wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,racoon
+wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,racoon
+wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,racoon
 wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,rat
 domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,rat
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,mustelid,skunk
-wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,skunk
-wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,skunk
+wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,skunk
+wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,skunk
 wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,rodent,squirrel
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,rodent,vole
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,vole
-wild animal,carnivore,aquatic animal,mammal,animal found worldwide,dolphin
-wild animal,herbivore,aquatic animal,mammal,animal found worldwide,dugong
-wild animal,herbivore,semi-aquatic animal,mammal,animal found in Africa,hippo
-wild animal,herbivore,aquatic animal,mammal,animal found in the Americas,manatee
-wild animal,herbivore,aquatic animal,mammal,animal found in Africa,manatee
+wild animal,carnivore,aquatic animal,mammal,animal found worldwide,zzz,dolphin
+wild animal,herbivore,aquatic animal,mammal,animal found worldwide,zzz,dugong
+wild animal,herbivore,semi-aquatic animal,mammal,animal found in Africa,zzz,hippo
+wild animal,herbivore,aquatic animal,mammal,animal found in the Americas,zzz,manatee
+wild animal,herbivore,aquatic animal,mammal,animal found in Africa,zzz,manatee
 wild animal,carnivore,aquatic animal,mammal,animal found in the Arctic,animal with horns antlers or tusks,narwhal
-wild animal,carnivore,aquatic animal,mammal,animal found worldwide,orca
-wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,otter
+wild animal,carnivore,aquatic animal,mammal,animal found worldwide,zzz,orca
+wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,zzz,otter
 wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,insectivore,platypus
-wild animal,carnivore,aquatic animal,mammal,animal found worldwide,porpoise
-wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,river dolphin
-wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,river dolphin
-wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,sea lion
-wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,seal
+wild animal,carnivore,aquatic animal,mammal,animal found worldwide,zzz,porpoise
+wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,zzz,river dolphin
+wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,zzz,river dolphin
+wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,zzz,sea lion
+wild animal,carnivore,semi-aquatic animal,mammal,animal found worldwide,zzz,seal
 wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Arctic,animal with horns antlers or tusks,walrus
-wild animal,carnivore,aquatic animal,mammal,animal found worldwide,whale
+wild animal,carnivore,aquatic animal,mammal,animal found worldwide,zzz,whale
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,animal with armor or spikes,armadillo
 wild animal,insectivore,terrestrial animal,mammal,animal found in Oceania,animal with armor or spikes,hedgehog
 wild animal,insectivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,hedgehog
@@ -203,29 +203,29 @@ wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,ani
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with armor or spikes,porcupine
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with armor or spikes,porcupine
 wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,insectivore,aardvark
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,alpaca
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,alpaca
 wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,insectivore,anteater
 wild animal,carnivore,terrestrial animal,mammal,animal found worldwide,insectivore,bat
-wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,vampire bat
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,camel
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,camel
-domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,donkey
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,dromedary
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,dromedary
-wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,hare
-wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,horse
-domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,horse
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,llama
-wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,mole
-wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,mongoose
-wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,mongoose
-domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,mule
-domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,pig
-wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,red panda
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,sloth
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,tapir
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,tapir
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zebra
+wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,zzz,vampire bat
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,camel
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,camel
+domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,donkey
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,dromedary
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,dromedary
+wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,horse
+domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,horse
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,llama
+wild animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,mole
+wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,mongoose
+wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,zzz,mongoose
+domesticated animal,herbivore,terrestrial animal,mammal,animal found worldwide,zzz,mule
+domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,zzz,pig
+wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,red panda
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,sloth
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,tapir
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,tapir
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,zebra
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,bear,black bear
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,bear,black bear
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,bear,brown bear
@@ -240,8 +240,8 @@ wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,can
 wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,canine,dingo
 wild animal,omnivore,terrestrial animal,mammal,animal found worldwide,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,canine,fox
-wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,hyena
-wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,hyena
+wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,zzz,hyena
+wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,hyena
 wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,canine,jackal
 wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,canine,jackal
 domesticated animal,omnivore,terrestrial animal,mammal,animal found worldwide,canine,pet dog
@@ -285,23 +285,27 @@ wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,mu
 wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,mustelid,weasel
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,mustelid,wolverine
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,mustelid,wolverine
-wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,civet
-wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,civet
-wild animal,carnivore,aquatic animal,amphibian,animal found in the Americas,axolotl
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found worldwide,frog
-wild animal,carnivore,aquatic animal,amphibian,animal found in Eurasia,olm
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in the Americas,salamander
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Eurasia,salamander
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found worldwide,toad
+wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,civet
+wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,zzz,civet
+wild animal,carnivore,aquatic animal,amphibian,animal found in the Americas,zzz,axolotl
+wild animal,carnivore,aquatic animal,amphibian,animal found in Eurasia,zzz,axolotl
+wild animal,carnivore,aquatic animal,amphibian,animal found in Africa,zzz,axolotl
+wild animal,carnivore,aquatic animal,amphibian,animal found in Oceania,zzz,axolotl
+wild animal,carnivore,aquatic animal,amphibian,animal found in worldwide,zzz,axolotl
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found worldwide,zzz,frog
+wild animal,carnivore,aquatic animal,amphibian,animal found in Eurasia,zzz,olm
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in the Americas,zzz,salamander
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Eurasia,zzz,salamander
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found worldwide,zzz,toad
 wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,snake,viper
-wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,alligator
-wild animal,carnivore,semi-aquatic animal,reptile,animal found in Eurasia,a reptile apart from a lizard or snake,alligator
-wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,caimain
-wild animal,carnivore,semi-aquatic animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,crocodile
-wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,dinosaur
-wild animal,herbivore,terrestrial animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,tortoise
-wild animal,herbivore,semi-aquatic animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,turtle
-wild animal,herbivore,aquatic animal,reptile,animal found worldwide,a reptile apart from a lizard or snake,sea turtle
+wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,zother reptile,alligator
+wild animal,carnivore,semi-aquatic animal,reptile,animal found in Eurasia,zother reptile,alligator
+wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,zother reptile,caimain
+wild animal,carnivore,semi-aquatic animal,reptile,animal found worldwide,zother reptile,crocodile
+wild animal,carnivore,terrestrial animal,reptile,animal found worldwide,zother reptile,dinosaur
+wild animal,herbivore,terrestrial animal,reptile,animal found worldwide,zother reptile,tortoise
+wild animal,herbivore,semi-aquatic animal,reptile,animal found worldwide,zother reptile,turtle
+wild animal,herbivore,aquatic animal,reptile,animal found worldwide,zother reptile,sea turtle
 wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,lizard,chameleon
 wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,chameleon
 wild animal,carnivore,aquatic animal,reptile,animal found in Oceania,snake,seasnake
@@ -448,7 +452,7 @@ wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown w
 wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,magpie
 wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,mockingbird
 wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,nightingale
-wild animal,omnivore,terrestrial animal,bird,animal found in the Americasbrightly colored bird,oriole
+wild animal,omnivore,terrestrial animal,bird,animal found in the Americasbrightly colored bird,zzz,oriole
 wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,brightly colored bird,robin
 wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,wren
 wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,uguisu
@@ -462,91 +466,91 @@ wild animal,omnivore,terrestrial animal,bird,animal found in Africa,grey brown w
 wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,cuckoo
 wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,brightly colored bird,hummingbird
 wild animal,omnivore,terrestrial animal,bird,animal found worldwide,grey brown white or black bird,raven
-wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,freshwater fish,bass
-wild animal,carnivore,aquatic animal,fish,freshwater fish,bass
-wild animal,carnivore,aquatic animal,fish,freshwater fish,bass
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,cod
-wild animal,carnivore,aquatic animal,fish,saltwater fish,cod
-wild animal,carnivore,aquatic animal,fish,saltwater fish,cod
-wild animal,carnivore,aquatic animal,fish,saltwater fish,eel
-wild animal,carnivore,aquatic animal,fish,freshwater fish,eel
-wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder
-wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder
-wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,omnivore,aquatic animal,fish,saltwater fish,herring
-wild animal,omnivore,aquatic animal,fish,saltwater fish,herring
-wild animal,carnivore,aquatic animal,fish,freshwater fish,pike
-wild animal,carnivore,aquatic animal,fish,freshwater fish,pike
-wild animal,carnivore,aquatic animal,fish,freshwater fish,pike
-wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,carnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,carnivore,aquatic animal,fish,freshwater fish,trout
-wild animal,carnivore,aquatic animal,fish,freshwater fish,trout
-wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna
-wild animal,omnivore,aquatic animal,fish,freshwater fish,angelfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,barb
-wild animal,omnivore,aquatic animal,fish,freshwater fish,barb
-wild animal,carnivore,aquatic animal,fish,freshwater fish,betta
-wild animal,omnivore,aquatic animal,fish,saltwater fish,clownfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,goldfish
-domesticated animal,omnivore,aquatic animal,fish,freshwater fish,goldfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,guppy
-wild animal,omnivore,aquatic animal,fish,freshwater fish,koi
-domesticated animal,omnivore,aquatic animal,fish,freshwater fish,koi
-wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow
-wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow
-wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow
-wild animal,omnivore,aquatic animal,fish,freshwater fish,molly
-wild animal,carnivore,aquatic animal,fish,freshwater fish,piranha
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,omnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,omnivore,aquatic animal,fish,saltwater fish,tang(Dory)
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tetra
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,anchovy
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,bass
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,bass
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,bass
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,cod
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,cod
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,cod
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,flounder
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,flounder
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,flounder
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,herring
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,herring
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,pike
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,pike
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,pike
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,trout
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,trout
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,tuna
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,angelfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,barb
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,barb
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,betta
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,clownfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,goldfish
+domesticated animal,omnivore,aquatic animal,fish,freshwater fish,zzz,goldfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,guppy
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,koi
+domesticated animal,omnivore,aquatic animal,fish,freshwater fish,zzz,koi
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,minnow
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,minnow
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,minnow
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,molly
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,piranha
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,tang(Dory)
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tetra
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,moray eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,cow
 wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,animal with horns antlers or tusks,ox
@@ -558,43 +562,43 @@ domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,r
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,rodent,guinea pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,rodent,mouse
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,rodent,mouse
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,rabbit
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,rabbit
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,rabbit
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,rabbit
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,rodent,rat
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,rodent,rat
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,rodent,squirrel
-wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,dolphin
-wild animal,herbivore,aquatic animal,mammal,animal found in Eurasia,dugong
-wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,orca
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,otter
-wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,porpoise
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,sea lion
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,seal
-wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,whale
+wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,zzz,dolphin
+wild animal,herbivore,aquatic animal,mammal,animal found in Eurasia,zzz,dugong
+wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,zzz,orca
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,zzz,otter
+wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,zzz,porpoise
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,zzz,sea lion
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Eurasia,zzz,seal
+wild animal,carnivore,aquatic animal,mammal,animal found in Eurasia,zzz,whale
 wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,insectivore,bat
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,donkey
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,hare
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,horse
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,horse
-wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,mole
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,mule
-domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,pig
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,donkey
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,horse
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,horse
+wild animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,mole
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Eurasia,zzz,mule
+domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Eurasia,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,house cat
 wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,feline,panther
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,mustelid,ferret
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Eurasia,frog
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Eurasia,toad
-wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Eurasia,frog
-wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Eurasia,toad
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Eurasia,zzz,frog
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Eurasia,zzz,toad
+wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Eurasia,zzz,frog
+wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Eurasia,zzz,toad
 wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,snake,viper
-wild animal,carnivore,semi-aquatic animal,reptile,animal found in Eurasia,a reptile apart from a lizard or snake,crocodile
-wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,a reptile apart from a lizard or snake,dinosaur
-wild animal,herbivore,terrestrial animal,reptile,animal found in Eurasia,a reptile apart from a lizard or snake,tortoise
-wild animal,herbivore,semi-aquatic animal,reptile,animal found in Eurasia,a reptile apart from a lizard or snake,turtle
-wild animal,herbivore,aquatic animal,reptile,animal found in Eurasia,a reptile apart from a lizard or snake,sea turtle
+wild animal,carnivore,semi-aquatic animal,reptile,animal found in Eurasia,zother reptile,crocodile
+wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,zother reptile,dinosaur
+wild animal,herbivore,terrestrial animal,reptile,animal found in Eurasia,zother reptile,tortoise
+wild animal,herbivore,semi-aquatic animal,reptile,animal found in Eurasia,zother reptile,turtle
+wild animal,herbivore,aquatic animal,reptile,animal found in Eurasia,zother reptile,sea turtle
 wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,gecko
 wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,legless lizard
 wild animal,carnivore,terrestrial animal,reptile,animal found in Eurasia,lizard,monitor
@@ -656,31 +660,31 @@ domesticated animal,omnivore,terrestrial animal,bird,animal found in Eurasia,gre
 wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,crow
 wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,cuckoo
 wild animal,omnivore,terrestrial animal,bird,animal found in Eurasia,grey brown white or black bird,raven
-wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,freshwater fish,bass
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,cod
-wild animal,carnivore,aquatic animal,fish,saltwater fish,eel
-wild animal,carnivore,aquatic animal,fish,freshwater fish,eel
-wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,carnivore,aquatic animal,fish,freshwater fish,pike
-wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,carnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna
-wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,omnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,anchovy
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,bass
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,cod
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,flounder
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,pike
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,tuna
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,minnow
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,moray eel
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,cow
 wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,animal with horns antlers or tusks,ox
@@ -692,41 +696,41 @@ domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,ro
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,rodent,guinea pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,rodent,mouse
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,rodent,mouse
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,rabbit
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,rabbit
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,rabbit
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,rabbit
 wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,rodent,rat
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,rodent,rat
 wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,rodent,squirrel
-wild animal,carnivore,aquatic animal,mammal,animal found in Africa,dolphin
-wild animal,herbivore,aquatic animal,mammal,animal found in Africa,dugong
-wild animal,carnivore,aquatic animal,mammal,animal found in Africa,orca
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,otter
-wild animal,carnivore,aquatic animal,mammal,animal found in Africa,porpoise
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,sea lion
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,seal
-wild animal,carnivore,aquatic animal,mammal,animal found in Africa,whale
+wild animal,carnivore,aquatic animal,mammal,animal found in Africa,zzz,dolphin
+wild animal,herbivore,aquatic animal,mammal,animal found in Africa,zzz,dugong
+wild animal,carnivore,aquatic animal,mammal,animal found in Africa,zzz,orca
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,zzz,otter
+wild animal,carnivore,aquatic animal,mammal,animal found in Africa,zzz,porpoise
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,zzz,sea lion
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Africa,zzz,seal
+wild animal,carnivore,aquatic animal,mammal,animal found in Africa,zzz,whale
 wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,insectivore,bat
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,donkey
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,hare
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,horse
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,horse
-wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,mole
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,mule
-domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,pig
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,donkey
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,horse
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,horse
+wild animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,mole
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Africa,zzz,mule
+domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,zzz,pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in Africa,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Africa,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Africa,feline,house cat
 wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,feline,panther
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Africa,mustelid,ferret
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Africa,frog
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Africa,toad
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Africa,zzz,frog
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Africa,zzz,toad
 wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,snake,viper
-wild animal,carnivore,semi-aquatic animal,reptile,animal found in Africa,a reptile apart from a lizard or snake,crocodile
-wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,a reptile apart from a lizard or snake,dinosaur
-wild animal,herbivore,terrestrial animal,reptile,animal found in Africa,a reptile apart from a lizard or snake,tortoise
-wild animal,herbivore,semi-aquatic animal,reptile,animal found in Africa,a reptile apart from a lizard or snake,turtle
-wild animal,herbivore,aquatic animal,reptile,animal found in Africa,a reptile apart from a lizard or snake,sea turtle
+wild animal,carnivore,semi-aquatic animal,reptile,animal found in Africa,zother reptile,crocodile
+wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,zother reptile,dinosaur
+wild animal,herbivore,terrestrial animal,reptile,animal found in Africa,zother reptile,tortoise
+wild animal,herbivore,semi-aquatic animal,reptile,animal found in Africa,zother reptile,turtle
+wild animal,herbivore,aquatic animal,reptile,animal found in Africa,zother reptile,sea turtle
 wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,lizard,gecko
 wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,lizard,legless lizard
 wild animal,carnivore,terrestrial animal,reptile,animal found in Africa,lizard,monitor
@@ -788,31 +792,31 @@ domesticated animal,omnivore,terrestrial animal,bird,animal found in Africa,grey
 wild animal,omnivore,terrestrial animal,bird,animal found in Africa,grey brown white or black bird,crow
 wild animal,omnivore,terrestrial animal,bird,animal found in Africa,grey brown white or black bird,cuckoo
 wild animal,omnivore,terrestrial animal,bird,animal found in Africa,grey brown white or black bird,raven
-wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,freshwater fish,bass
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,cod
-wild animal,carnivore,aquatic animal,fish,saltwater fish,eel
-wild animal,carnivore,aquatic animal,fish,freshwater fish,eel
-wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,carnivore,aquatic animal,fish,freshwater fish,pike
-wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,carnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna
-wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,omnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,anchovy
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,bass
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,cod
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,flounder
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,pike
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,tuna
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,minnow
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,moray eel
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,cow
 wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,animal with horns antlers or tusks,ox
@@ -824,43 +828,43 @@ domesticated animal,omnivore,terrestrial animal,mammal,animal found in Oceania,r
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,rodent,guinea pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in Oceania,rodent,mouse
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Oceania,rodent,mouse
-wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,rabbit
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,rabbit
+wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,rabbit
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,rabbit
 wild animal,omnivore,terrestrial animal,mammal,animal found in Oceania,rodent,rat
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Oceania,rodent,rat
 wild animal,omnivore,terrestrial animal,mammal,animal found in Oceania,rodent,squirrel
-wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,dolphin
-wild animal,herbivore,aquatic animal,mammal,animal found in Oceania,dugong
-wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,orca
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,otter
-wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,porpoise
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,sea lion
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,seal
-wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,whale
+wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,zzz,dolphin
+wild animal,herbivore,aquatic animal,mammal,animal found in Oceania,zzz,dugong
+wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,zzz,orca
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,zzz,otter
+wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,zzz,porpoise
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,zzz,sea lion
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in Oceania,zzz,seal
+wild animal,carnivore,aquatic animal,mammal,animal found in Oceania,zzz,whale
 wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,insectivore,bat
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,donkey
-wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,hare
-wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,horse
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,horse
-wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,mole
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,mule
-domesticated animal,omnivore,terrestrial animal,mammal,animal found in Oceania,pig
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,donkey
+wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,horse
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,horse
+wild animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,mole
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in Oceania,zzz,mule
+domesticated animal,omnivore,terrestrial animal,mammal,animal found in Oceania,zzz,pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in Oceania,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Oceania,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in Oceania,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Oceania,feline,house cat
 wild animal,carnivore,terrestrial animal,mammal,animal found in Oceania,feline,panther
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Oceania,mustelid,ferret
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Oceania,frog
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Oceania,toad
-wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Oceania,frog
-wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Oceania,toad
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Oceania,zzz,frog
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in Oceania,zzz,toad
+wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Oceania,zzz,frog
+wild animal,insectivore,semi-aquatic animal,amphibian,animal found in Oceania,zzz,toad
 wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,snake,viper
-wild animal,carnivore,semi-aquatic animal,reptile,animal found in Oceania,a reptile apart from a lizard or snake,crocodile
-wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,a reptile apart from a lizard or snake,dinosaur
-wild animal,herbivore,terrestrial animal,reptile,animal found in Oceania,a reptile apart from a lizard or snake,tortoise
-wild animal,herbivore,semi-aquatic animal,reptile,animal found in Oceania,a reptile apart from a lizard or snake,turtle
-wild animal,herbivore,aquatic animal,reptile,animal found in Oceania,a reptile apart from a lizard or snake,sea turtle
+wild animal,carnivore,semi-aquatic animal,reptile,animal found in Oceania,zother reptile,crocodile
+wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,zother reptile,dinosaur
+wild animal,herbivore,terrestrial animal,reptile,animal found in Oceania,zother reptile,tortoise
+wild animal,herbivore,semi-aquatic animal,reptile,animal found in Oceania,zother reptile,turtle
+wild animal,herbivore,aquatic animal,reptile,animal found in Oceania,zother reptile,sea turtle
 wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,lizard,gecko
 wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,lizard,legless lizard
 wild animal,carnivore,terrestrial animal,reptile,animal found in Oceania,lizard,monitor
@@ -922,31 +926,31 @@ domesticated animal,omnivore,terrestrial animal,bird,animal found in Oceania,gre
 wild animal,omnivore,terrestrial animal,bird,animal found in Oceania,grey brown white or black bird,crow
 wild animal,omnivore,terrestrial animal,bird,animal found in Oceania,grey brown white or black bird,cuckoo
 wild animal,omnivore,terrestrial animal,bird,animal found in Oceania,grey brown white or black bird,raven
-wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,freshwater fish,bass
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,cod
-wild animal,carnivore,aquatic animal,fish,saltwater fish,eel
-wild animal,carnivore,aquatic animal,fish,freshwater fish,eel
-wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,carnivore,aquatic animal,fish,freshwater fish,pike
-wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,carnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna
-wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,omnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,anchovy
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,bass
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,cod
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,flounder
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,pike
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,tuna
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,minnow
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,moray eel
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,cow
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,cow
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,cow
 wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,goat
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,animal with horns antlers or tusks,ox
@@ -958,41 +962,41 @@ domesticated animal,omnivore,terrestrial animal,mammal,animal found in the Ameri
 domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rodent,guinea pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,rodent,mouse
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in the Americas,rodent,mouse
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rabbit
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,rabbit
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,rabbit
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,rabbit
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,rodent,rat
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in the Americas,rodent,rat
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,rodent,squirrel
-wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,dolphin
-wild animal,herbivore,aquatic animal,mammal,animal found in the Americas,dugong
-wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,orca
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,otter
-wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,porpoise
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,sea lion
-wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,seal
-wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,whale
+wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,zzz,dolphin
+wild animal,herbivore,aquatic animal,mammal,animal found in the Americas,zzz,dugong
+wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,zzz,orca
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,zzz,otter
+wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,zzz,porpoise
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,zzz,sea lion
+wild animal,carnivore,semi-aquatic animal,mammal,animal found in the Americas,zzz,seal
+wild animal,carnivore,aquatic animal,mammal,animal found in the Americas,zzz,whale
 wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,insectivore,bat
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,donkey
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,hare
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,horse
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,horse
-wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,mole
-domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,mule
-domesticated animal,omnivore,terrestrial animal,mammal,animal found in the Americas,pig
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,donkey
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,hare
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,horse
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,horse
+wild animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,mole
+domesticated animal,herbivore,terrestrial animal,mammal,animal found in the Americas,zzz,mule
+domesticated animal,omnivore,terrestrial animal,mammal,animal found in the Americas,zzz,pig
 wild animal,omnivore,terrestrial animal,mammal,animal found in the Americas,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in the Americas,canine,fox
 domesticated animal,omnivore,terrestrial animal,mammal,animal found in the Americas,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,house cat
 wild animal,carnivore,terrestrial animal,mammal,animal found in the Americas,feline,panther
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in the Americas,mustelid,ferret
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in the Americas,frog
-wild animal,carnivore,semi-aquatic animal,amphibian,animal found in the Americas,toad
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in the Americas,zzz,frog
+wild animal,carnivore,semi-aquatic animal,amphibian,animal found in the Americas,zzz,toad
 wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,snake,viper
-wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,crocodile
-wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,dinosaur
-wild animal,herbivore,terrestrial animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,tortoise
-wild animal,herbivore,semi-aquatic animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,turtle
-wild animal,herbivore,aquatic animal,reptile,animal found in the Americas,a reptile apart from a lizard or snake,sea turtle
+wild animal,carnivore,semi-aquatic animal,reptile,animal found in the Americas,zother reptile,crocodile
+wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,zother reptile,dinosaur
+wild animal,herbivore,terrestrial animal,reptile,animal found in the Americas,zother reptile,tortoise
+wild animal,herbivore,semi-aquatic animal,reptile,animal found in the Americas,zother reptile,turtle
+wild animal,herbivore,aquatic animal,reptile,animal found in the Americas,zother reptile,sea turtle
 wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,lizard,gecko
 wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,lizard,legless lizard
 wild animal,carnivore,terrestrial animal,reptile,animal found in the Americas,lizard,monitor
@@ -1054,33 +1058,148 @@ domesticated animal,omnivore,terrestrial animal,bird,animal found in the America
 wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,crow
 wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,cuckoo
 wild animal,omnivore,terrestrial animal,bird,animal found in the Americas,grey brown white or black bird,raven
-wild animal,carnivore,aquatic animal,fish,saltwater fish,anchovy
-wild animal,carnivore,aquatic animal,fish,saltwater fish,barracuda
-wild animal,carnivore,aquatic animal,fish,freshwater fish,bass
-wild animal,omnivore,aquatic animal,fish,freshwater fish,catfish
-wild animal,carnivore,aquatic animal,fish,saltwater fish,cod
-wild animal,carnivore,aquatic animal,fish,saltwater fish,eel
-wild animal,carnivore,aquatic animal,fish,freshwater fish,eel
-wild animal,carnivore,aquatic animal,fish,saltwater fish,flounder
-wild animal,carnivore,aquatic animal,fish,saltwater fish,grouper
-wild animal,carnivore,aquatic animal,fish,freshwater fish,pike
-wild animal,omnivore,aquatic animal,fish,saltwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,freshwater fish,salmon
-wild animal,omnivore,aquatic animal,fish,saltwater fish,sardine
-wild animal,carnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,swordfish
-wild animal,omnivore,aquatic animal,fish,freshwater fish,tilapia
-wild animal,carnivore,aquatic animal,fish,saltwater fish,tuna
-wild animal,omnivore,aquatic animal,fish,freshwater fish,minnow
-wild animal,carnivore,aquatic animal,fish,saltwater fish,pufferfish
-wild animal,omnivore,aquatic animal,fish,saltwater fish,shark
-wild animal,carnivore,aquatic animal,fish,saltwater fish,stingray
-wild animal,carnivore,aquatic animal,fish,saltwater fish,wrasse
-wild animal,carnivore,aquatic animal,fish,saltwater fish,moray eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,anchovy
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,barracuda
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,bass
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,catfish
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,cod
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,eel
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,flounder
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,grouper
+wild animal,carnivore,aquatic animal,fish,freshwater fish,zzz,pike
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,salmon
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,sardine
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,swordfish
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,tilapia
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,tuna
+wild animal,omnivore,aquatic animal,fish,freshwater fish,zzz,minnow
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,pufferfish
+wild animal,omnivore,aquatic animal,fish,saltwater fish,zzz,shark
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,stingray
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,wrasse
+wild animal,carnivore,aquatic animal,fish,saltwater fish,zzz,moray eel
 domesticated animal,carnivore,terrestrial animal,mammal,animal found worldwide,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Africa,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in Oceania,canine,pet dog
 domesticated animal,carnivore,terrestrial animal,mammal,animal found in the Americas,canine,pet dog
-wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,hyena
-wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,hyena
+wild animal,carnivore,terrestrial animal,mammal,animal found in Africa,zzz,hyena
+wild animal,carnivore,terrestrial animal,mammal,animal found in Eurasia,zzz,hyena
+wild animal,omnivore,aquatic animal,invertebrate,animal found in the Americas,crustacean,shrimp
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Eurasia,crustacean,shrimp
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Africa,crustacean,shrimp
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Oceania,crustacean,shrimp
+wild animal,omnivore,aquatic animal,invertebrate,animal found worldwide,crustacean,shrimp
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Eurasia,crustacean,lobster
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Africa,crustacean,lobster
+wild animal,omnivore,aquatic animal,invertebrate,animal found in the Americas,crustacean,lobster
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Oceania,crustacean,lobster
+wild animal,omnivore,aquatic animal,invertebrate,animal found worldwide,crustacean,lobster
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Africa,crustacean,crab
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Eurasia,crustacean,crab
+wild animal,omnivore,aquatic animal,invertebrate,animal found in Oceania,crustacean,crab
+wild animal,omnivore,aquatic animal,invertebrate,animal found in the Americas,crustacean,crab
+wild animal,omnivore,aquatic animal,invertebrate,animal found worldwide,crustacean,crab
+wild animal,carnivore,aquatic animal,invertebrate,animal found in Eurasia,zzz,octopus
+wild animal,carnivore,aquatic animal,invertebrate,animal found in Africa,zzz,octopus
+wild animal,carnivore,aquatic animal,invertebrate,animal found in the Americas,zzz,octopus
+wild animal,carnivore,aquatic animal,invertebrate,animal found in Oceania,zzz,octopus
+wild animal,carnivore,aquatic animal,invertebrate,animal found worldwide,zzz,octopus
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in the Americas,zzz,spider
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Eurasia,zzz,spider
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Africa,zzz,spider
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Oceania,zzz,spider
+wild animal,carnivore,terrestrial animal,invertebrate,animal found worldwide,zzz,spider
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Eurasia,zzz,scorpion
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Africa,zzz,scorpion
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Oceania,zzz,scorpion
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in the Americas,zzz,scorpion
+wild animal,carnivore,terrestrial animal,invertebrate,animal found worldwide,zzz,scorpion
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,moth
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,moth
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,moth
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,moth
+wild animal,herbivore,terrestrial animal,invertebrate,found worldwide,insect,moth
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,bee
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,bee
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,bee
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,bee
+wild animal,herbivore,terrestrial animal,invertebrate,found worldwide,insect,bee
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,butterfly
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,butterfly
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,butterfly
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,butterfly
+wild animal,herbivore,terrestrial animal,invertebrate,found worldwide,insect,butterfly
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,mosquito
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Africa,insect,mosquito
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,mosquito
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,mosquito
+wild animal,carnivore,terrestrial animal,invertebrate,found worldwide,insect,mosquito
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,cricket
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,cricket
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,cricket
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,cricket
+wild animal,herbivore,terrestrial animal,invertebrate,found worldwide,insect,cricket
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,cricket
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Africa,insect,cricket
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,cricket
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,cricket
+wild animal,omnivore,terrestrial animal,invertebrate,found worldwide,insect,cricket
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,cockroach
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Africa,insect,cockroach
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,cockroach
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,cockroach
+wild animal,omnivore,terrestrial animal,invertebrate,found worldwide,insect,cockroach
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,ant
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,ant
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,ant
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,ant
+wild animal,herbivore,terrestrial animal,invertebrate,found worldwide,insect,ant
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,termite
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,termite
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,termite
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,termite
+wild animal,herbivore,terrestrial animal,invertebrate,found worldwide,insect,termite
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,wasp
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Africa,insect,wasp
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,wasp
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,wasp
+wild animal,carnivore,terrestrial animal,invertebrate,found worldwide,insect,wasp
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,beetle
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,beetle
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,beetle
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,beetle
+wild animal,herbivore,terrestrial animal,invertebrate,found worldwide,insect,beetle
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,centipede
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Africa,insect,centipede
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,centipede
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,centipede
+wild animal,carnivore,terrestrial animal,invertebrate,found worldwide,insect,centipede
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,flea
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Africa,insect,flea
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,flea
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,flea
+wild animal,carnivore,terrestrial animal,invertebrate,found worldwide,insect,flea
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,fly
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Africa,insect,fly
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,fly
+wild animal,omnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,fly
+wild animal,omnivore,terrestrial animal,invertebrate,found worldwide,insect,fly
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,tick
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Africa,insect,tick
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in Oceania,insect,tick
+wild animal,carnivore,terrestrial animal,invertebrate,animal found in the Americas,insect,tick
+wild animal,carnivore,terrestrial animal,invertebrate,found worldwide,insect,tick
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,caterpillar
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,caterpillar
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,caterpillar
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,caterpillar
+wild animal,herbivore,terrestrial animal,invertebrate,animal found worldwide,insect,caterpillar
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Africa,insect,grasshopper
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in the Americas,insect,grasshopper
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Oceania,insect,grasshopper
+wild animal,herbivore,terrestrial animal,invertebrate,animal found in Eurasia,insect,grasshopper
+wild animal,herbivore,terrestrial animal,invertebrate,animal found worldwide,insect,grasshopper

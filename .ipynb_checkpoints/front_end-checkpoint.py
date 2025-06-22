@@ -41,19 +41,43 @@ def ask_question():
     if not animals or st.session_state.game_over:
         return
 
-    # Move to next column if current_animal_index out of range
+        # Check if we've run out of options in this column
     if st.session_state.current_animal_index >= len(animals):
-        st.session_state.current_animal_index = 0
-        st.session_state.current_column_index += 1
-        st.experimental_rerun()  # Force rerun to update question
-        return
+        if column == 'species':
+            st.error("I give up. You win! 🎉")
+            st.session_state.game_over = True
+        else:
+            st.write("No match in this category — moving on!")
+            st.session_state.current_column_index += 1
+            st.session_state.current_animal_index = 0
+            st.experimental_rerun()
+        return  # Always return after rerun or ending
+
+    # If we’ve reached the last animal in the column and not in final column, auto-confirm
+    if st.session_state.current_animal_index >= len(animals)-1:
+        if column != 'species':
+            # Auto-confirm the last option
+            last_animal = animals[-1]
+            st.write(f"I'm guessing it's {make_an(last_animal)} {last_animal} — moving on!")
+            st.session_state.filtered_animals = st.session_state.filtered_animals[
+                (st.session_state.filtered_animals[column] == last_animal) |
+                (st.session_state.filtered_animals[column].isna())
+            ]
+            st.session_state.current_column_index += 1
+            st.session_state.current_animal_index = 0
+            st.session_state.question_counter += 1
+            st.experimental_rerun()
+            return
+        else:
+            # Final column — do not auto-confirm, just proceed to ask the final question
+            pass  # Do nothing — let it reach the question display below
 
         # Freeze question target values for this interaction
     animal = animals[st.session_state.current_animal_index]
     col_name = column  # freeze the column name
 
-    animal = animals[st.session_state.current_animal_index]
     article = make_an(animal)
+
 
     st.write(f"Question {st.session_state.question_counter}: Is it {article} {animal}?")
 

@@ -1,5 +1,5 @@
 ### 📱 App Release - Animal ID App 
-This app is now live!
+This app is now live! With bugs! lol
 
 <p align="left">
   <a href="https://amethystaurora-robo-animal-guessing-game-front-end-3qe79d.streamlit.app/" target="_blank">
